@@ -1,71 +1,69 @@
 ---
 description: >-
-  Welcome to the page where you will find each hacking trick/technique/whatever
-  related to Infrastructure I have learnt in CTFs, real life environments, and
-  reading researches and news.
+  Bienvenido a la página donde encontrarás cada truco/técnica/herramienta de hacking relacionada con Infraestructura que he aprendido en CTFs, entornos reales y leyendo investigaciones y noticias.
 ---
 
 # HackTricks Cloud
 
 <details>
 
-<summary><strong>Support HackTricks and get benefits!</strong></summary>
+<summary><strong>¡Apoya a HackTricks y obtén beneficios!</strong></summary>
 
-* If you want to see your **company advertised in HackTricks** or if you want access to the **latest version of the PEASS or download HackTricks in PDF** Check the [**SUBSCRIPTION PLANS**](https://github.com/sponsors/carlospolop)!
-* Get the [**official PEASS & HackTricks swag**](https://peass.creator-spring.com)
-* Discover [**The PEASS Family**](https://opensea.io/collection/the-peass-family), our collection of exclusive [**NFTs**](https://opensea.io/collection/the-peass-family)
-* **Join the** 💬 [**Discord group**](https://discord.gg/hRep4RUj7f) or the [**telegram group**](https://t.me/peass) or **follow** me on **Twitter** 🐦 [**@carlospolopm**](https://twitter.com/carlospolopm)**.**
-* **Share your hacking tricks by submitting PRs to the** [**HackTricks**](https://github.com/carlospolop/hacktricks) and [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud) github repos.
+* Si quieres ver a tu **empresa anunciada en HackTricks** o si quieres acceder a la **última versión de PEASS o descargar HackTricks en PDF** ¡Consulta los [**PLANES DE SUSCRIPCIÓN**](https://github.com/sponsors/carlospolop)!
+* Obtén el [**oficial PEASS & HackTricks swag**](https://peass.creator-spring.com)
+* Descubre [**The PEASS Family**](https://opensea.io/collection/the-peass-family), nuestra colección de exclusivos [**NFTs**](https://opensea.io/collection/the-peass-family)
+* **Únete al** 💬 [**grupo de Discord**](https://discord.gg/hRep4RUj7f) o al [**grupo de telegram**](https://t.me/peass) o **sígueme en** **Twitter** 🐦 [**@carlospolopm**](https://twitter.com/carlospolopm).
+* **Comparte tus trucos de hacking enviando PRs a los repositorios de GitHub de** [**HackTricks**](https://github.com/carlospolop/hacktricks) **y** [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud).
 
 </details>
 
 &#x20;                                                 ![](.gitbook/assets/hc.png)
 
-**Welcome to the page where you will find each hacking trick/technique/whatever related to CI/CD & Cloud I have learnt in CTFs, real life environments, and reading researches and news.**
+**Bienvenido a la página donde encontrarás cada truco/técnica/herramienta de hacking relacionada con CI/CD y Cloud que he aprendido en CTFs, entornos reales y leyendo investigaciones y noticias.**
 
-## **Pentesting CI/CD Methodology**
+## **Metodología de Pentesting CI/CD**
 
-**In the HackTricks CI/CD Methodology you will find how to pentest infrastructure related to CI/CD activities.** Read the following page for an **introduction:**
+**En la metodología de Pentesting CI/CD de HackTricks encontrarás cómo hacer pentesting en infraestructuras relacionadas con actividades de CI/CD.** Lee la siguiente página para una **introducción:**
 
 {% content-ref url="pentesting-ci-cd/pentesting-ci-cd-methodology.md" %}
 [pentesting-ci-cd-methodology.md](pentesting-ci-cd/pentesting-ci-cd-methodology.md)
 {% endcontent-ref %}
 
-## Pentesting Cloud Methodology
+## Metodología de Pentesting Cloud
 
-**In the HackTricks Cloud Methodology you will find how to pentest cloud environments.** Read the following page for an **introduction:**
+**En la metodología de Pentesting Cloud de HackTricks encontrarás cómo hacer pentesting en entornos de nube.** Lee la siguiente página para una **introducción:**
 
 {% content-ref url="pentesting-cloud/pentesting-cloud-methodology.md" %}
 [pentesting-cloud-methodology.md](pentesting-cloud/pentesting-cloud-methodology.md)
 {% endcontent-ref %}
 
-## License
+## Licencia
 
-**Copyright © Carlos Polop 2023. Except where otherwise specified (the external information copied into the book belongs to the original authors), the text on** [**HACK TRICKS CLOUD**](https://github.com/carlospolop/hacktricks-cloud) **by Carlos Polop is licensed under the**[ **Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**](https://creativecommons.org/licenses/by-nc/4.0/)**.**\
-**If you want to use it with commercial purposes, contact me.**
+**Derechos de autor © Carlos Polop 2023. Excepto donde se especifique lo contrario (la información externa copiada en el libro pertenece a los autores originales), el texto de** [**HACK TRICKS CLOUD**](https://github.com/carlospolop/hacktricks-cloud) **de Carlos Polop está bajo licencia de** [**Atribución-NoComercial 4.0 Internacional (CC BY-NC 4.0)**](https://creativecommons.org/licenses/by-nc/4.0/)**.**\
+**Si deseas utilizarlo con fines comerciales, contáctame.**
 
-## **Disclaimer**
+## **Descargo de responsabilidad**
 
 {% hint style="danger" %}
-This book, 'HackTricks Cloud,' is intended for educational and informational purposes only. The content within this book is provided on an 'as is' basis, and the authors and publishers make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability of the information, products, services, or related graphics contained within this book. Any reliance you place on such information is therefore strictly at your own risk.
+Este libro, 'HackTricks Cloud', está destinado únicamente a fines educativos e informativos. El contenido de este libro se proporciona "tal cual", y los autores y editores no hacen ninguna representación o garantía de ningún tipo, expresa o implícita, sobre la integridad, exactitud, confiabilidad, idoneidad o disponibilidad de la información, productos, servicios o gráficos relacionados contenidos en este libro. Cualquier confianza que deposite en dicha información es, por lo tanto, estrictamente bajo su propio riesgo.
 
-The authors and publishers shall in no event be liable for any loss or damage, including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from loss of data or profits arising out of, or in connection with, the use of this book.
+Los autores y editores no serán responsables en ningún caso por ninguna pérdida o daño, incluidos, entre otros, la pérdida o daño indirecto o consecuente, o cualquier pérdida o daño que surja de la pérdida de datos o beneficios derivados del uso de este libro.
 
-Furthermore, the techniques and tips described in this book are provided for educational and informational purposes only, and should not be used for any illegal or malicious activities. The authors and publishers do not condone or support any illegal or unethical activities, and any use of the information contained within this book is at the user's own risk and discretion.
+Además, las técnicas y consejos descritos en este libro se proporcionan únicamente con fines educativos e informativos, y no deben utilizarse para actividades ilegales o malintencionadas. Los autores y editores no aprueban ni respaldan ninguna actividad ilegal o poco ética, y cualquier uso de la información contenida en este libro es responsabilidad y discreción del usuario.
 
-The user is solely responsible for any actions taken based on the information contained within this book, and should always seek professional advice and assistance when attempting to implement any of the techniques or tips described herein.
+El usuario es el único responsable de cualquier acción tomada en función de la información contenida en este libro, y siempre debe buscar asesoramiento y asistencia profesional al intentar implementar cualquiera de las técnicas o consejos descritos en él.
 
-By using this book, the user agrees to release the authors and publishers from any and all liability and responsibility for any damages, losses, or harm that may result from the use of this book or any of the information contained within it.
+Al utilizar este libro, el usuario acepta liberar a los autores y editores de cualquier responsabilidad y responsabilidad por cualquier daño, pérdida o daño que pueda resultar del uso de este libro o de cualquiera de la información contenida en él.
 {% endhint %}
 
 <details>
 
-<summary><strong>Support HackTricks and get benefits!</strong></summary>
+<summary><strong>¡Apoya a HackTricks y obtén beneficios!</strong></summary>
 
-* If you want to see your **company advertised in HackTricks** or if you want access to the **latest version of the PEASS or download HackTricks in PDF** Check the [**SUBSCRIPTION PLANS**](https://github.com/sponsors/carlospolop)!
-* Get the [**official PEASS & HackTricks swag**](https://peass.creator-spring.com)
-* Discover [**The PEASS Family**](https://opensea.io/collection/the-peass-family), our collection of exclusive [**NFTs**](https://opensea.io/collection/the-peass-family)
-* **Join the** 💬 [**Discord group**](https://discord.gg/hRep4RUj7f) or the [**telegram group**](https://t.me/peass) or **follow** me on **Twitter** 🐦 [**@carlospolopm**](https://twitter.com/carlospolopm)**.**
-* **Share your hacking tricks by submitting PRs to the** [**HackTricks**](https://github.com/carlospolop/hacktricks) and [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud) github repos.
+* Si quieres ver a tu **empresa anunciada en HackTricks** o si quieres acceder a la **última versión de PEASS o descargar HackTricks en PDF** ¡Consulta los [**PLANES DE SUSCRIPCIÓN**](https://github.com/sponsors/carlospolop)!
+* Obtén el [**oficial PEASS & HackTricks swag**](https://peass.creator-spring.com)
+* Descubre [**The PEASS Family**](https://opensea.io/collection/the-peass-family), nuestra colección de exclusivos [**NFTs**](https://opensea.io/collection/the-peass-family)
+* **Únete al** 💬 [**grupo de Discord**](https://discord.gg/hRep4RUj7f) o al [**grupo de telegram**](https://t.me/peass) o **sígueme en** **Twitter** 🐦 [**@carlospolopm**](https://twitter.com/carlospolopm).
+* **Comparte tus trucos de hacking enviando PRs a los repositorios de GitHub de** [**HackTricks**](https://github.com/carlospolop/hacktricks) **y** [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud).
 
 </details>
