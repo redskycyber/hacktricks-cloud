@@ -19,15 +19,15 @@ description: >-
 
 <figure><img src=".gitbook/assets/cloud gif.gif" alt="" width="563"><figcaption></figcaption></figure>
 
-_Logos y diseño de movimiento por_ [_@ppiernacho_](https://www.instagram.com/ppieranacho/)_._
+_Logos y animaciones de Hacktricks diseñados por_ [_@ppiernacho_](https://www.instagram.com/ppieranacho/)_._
 
 {% hint style="info" %}
-Bienvenido a la página donde encontrarás cada **truco/técnica/herramienta de hacking relacionada con CI/CD y Cloud** que he aprendido en **CTFs**, **entornos** de la **vida real**, **investigando**, y **leyendo** investigaciones y noticias.
+Bienvenido a la página donde encontrarás cada **truco/técnica/herramienta de hacking relacionada con CI/CD y Cloud** que he aprendido en **CTFs**, **entornos** de la **vida real**, **investigando** y **leyendo** investigaciones y noticias.
 {% endhint %}
 
 ## **Metodología de Pentesting CI/CD**
 
-**En la metodología de pentesting CI/CD de HackTricks encontrarás cómo pentestear la infraestructura relacionada con las actividades de CI/CD.** Lee la siguiente página para una **introducción:**
+**En la metodología de Pentesting CI/CD de HackTricks encontrarás cómo hacer pentesting en infraestructuras relacionadas con actividades de CI/CD.** Lee la siguiente página para una **introducción:**
 
 {% content-ref url="pentesting-ci-cd/pentesting-ci-cd-methodology.md" %}
 [pentesting-ci-cd-methodology.md](pentesting-ci-cd/pentesting-ci-cd-methodology.md)
@@ -35,7 +35,7 @@ Bienvenido a la página donde encontrarás cada **truco/técnica/herramienta de 
 
 ## Metodología de Pentesting Cloud
 
-**En la metodología de pentesting Cloud de HackTricks encontrarás cómo pentestear entornos de Cloud.** Lee la siguiente página para una **introducción:**
+**En la metodología de Pentesting Cloud de HackTricks encontrarás cómo hacer pentesting en entornos de la nube.** Lee la siguiente página para una **introducción:**
 
 {% content-ref url="pentesting-cloud/pentesting-cloud-methodology.md" %}
 [pentesting-cloud-methodology.md](pentesting-cloud/pentesting-cloud-methodology.md)
@@ -43,7 +43,7 @@ Bienvenido a la página donde encontrarás cada **truco/técnica/herramienta de 
 
 ## Licencia
 
-**Derechos de autor © Carlos Polop 2023. Excepto donde se especifique lo contrario (la información externa copiada en el libro pertenece a los autores originales), el texto en** [**HACK TRICKS CLOUD**](https://github.com/carlospolop/hacktricks-cloud) **de Carlos Polop está bajo licencia de** [**Atribución-NoComercial 4.0 Internacional (CC BY-NC 4.0)**](https://creativecommons.org/licenses/by-nc/4.0/)**.**\
+**Derechos de autor © Carlos Polop 2023. Excepto donde se especifique lo contrario (la información externa copiada en el libro pertenece a los autores originales), el texto de** [**HACK TRICKS CLOUD**](https://github.com/carlospolop/hacktricks-cloud) **de Carlos Polop está bajo licencia de** [**Atribución-NoComercial 4.0 Internacional (CC BY-NC 4.0)**](https://creativecommons.org/licenses/by-nc/4.0/)**.**\
 **Si deseas utilizarlo con fines comerciales, contáctame.**
 
 ## **Descargo de responsabilidad**
@@ -51,7 +51,7 @@ Bienvenido a la página donde encontrarás cada **truco/técnica/herramienta de 
 {% hint style="danger" %}
 Este libro, 'HackTricks Cloud', está destinado únicamente a fines educativos e informativos. El contenido de este libro se proporciona "tal cual", y los autores y editores no hacen ninguna representación o garantía de ningún tipo, expresa o implícita, sobre la integridad, precisión, confiabilidad, idoneidad o disponibilidad de la información, productos, servicios o gráficos relacionados contenidos en este libro. Cualquier confianza que usted deposite en dicha información es, por lo tanto, estrictamente bajo su propio riesgo.
 
-Los autores y editores no serán responsables en ningún caso por ninguna pérdida o daño, incluyendo, sin limitación, pérdida o daño indirecto o consecuente, o cualquier pérdida o daño que surja de la pérdida de datos o beneficios derivados de, o en conexión con, el uso de este libro.
+Los autores y editores no serán responsables en ningún caso por ninguna pérdida o daño, incluyendo, sin limitación, pérdida o daño indirecto o consecuente, o cualquier pérdida o daño que surja de la pérdida de datos o beneficios derivados del uso de este libro.
 
 Además, las técnicas y consejos descritos en este libro se proporcionan únicamente con fines educativos e informativos, y no deben utilizarse para actividades ilegales o maliciosas. Los autores y editores no aprueban ni respaldan ninguna actividad ilegal o poco ética, y cualquier uso de la información contenida en este libro es bajo el propio riesgo y discreción del usuario.
 
