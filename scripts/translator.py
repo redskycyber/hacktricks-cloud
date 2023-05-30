@@ -68,38 +68,44 @@ def check_gh_branch(branch, temp_folder, file_path):
         subprocess.run(['git', 'commit', '-m', f"Translated {file_path} to {branch}"[:72]])
         subprocess.run(['git', 'checkout', MASTER_BRANCH])
         print("Commit created and moved to master branch")
+    
     else:
         print("No commiting anything, leaving in language branch")
 
 
 def translate_text(language, text, file_path, model, cont=0):
     messages = [
-        {"role": "system", "content": "You are a professional hacker, translator and writer. You write everything super clear and as concise as possible without loosing information."},
-        {"role": "system", "content": f"The following is content from a hacking book about hacking techiques of cloud, SaaS platforms, CI/CD... The following content is from the file {file_path}. Translate the relevant English text to {language} and return the translation keeping the markdown syntax. Do not translate things like code, hacking technique names, cloud/SaaS platform names (like Workspace, aws, gcp...), the word 'leak', and markdown tags. Also don't add any extra stuff apart from the translation and markdown syntax."},
+        {"role": "system", "content": "You are a cybersecurity professional, translator and writer. You write everything super clear and as concise as possible without loosing information."},
+        {"role": "system", "content": f"The following is content from a hacking book about hacking techiques of cloud, SaaS platforms, CI/CD... The following content is from the file {file_path}. Translate the relevant English text to {language} and return the translation keeping the markdown syntax. Do not translate things like code, hacking technique names, cloud/SaaS platform names (like Workspace, aws, gcp...), the word 'leak', 'CI/CD', and markdown tags. Also don't add any extra stuff apart from the translation and markdown syntax."},
         {"role": "user", "content": text},
     ]
     try:
         response = openai.ChatCompletion.create(
             model=model,
             messages=messages,
-            temperature=0
+            temperature=0,
+            request_timeout=1200,
         )
     except Exception as e:
         print(e)
         if cont > 6:
             print(f"Page {file_path} could not be translated with text: {text}")
             exit(1)
+        
         if "is currently overloaded" in str(e).lower():
             print("Overloaded, waiting 30 seconds")
             time.sleep(30)
+        
         elif "timeout" in str(e).lower():
             print("Timeout, waiting 30 seconds")
             cont += 1
             time.sleep(30)
+        
         elif "rate limit" in str(e).lower():
             print("Rate limit, waiting 60 seconds")
             cont += 1
             time.sleep(60)
+        
         elif "maximum context length" in str(e).lower():
             print("Maximum context length, splitting text in two and translating separately")
             text1 = text.split('\n')[:len(text.split('\n'))//2]
