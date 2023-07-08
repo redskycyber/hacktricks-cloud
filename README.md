@@ -1,35 +1,33 @@
 ---
 description: >-
-  Welcome to the page where you will find each hacking trick/technique/whatever
-  related to Infrastructure I have learnt in CTFs, real life environments, and
-  reading researches and news.
+インフラストラクチャに関連するハッキングトリック/テクニック/その他のすべてを見つけるページへようこそ。これらは、私がCTF、実際の環境、研究、ニュースを読む中で学んだものです。
 ---
 
 # HackTricks Cloud
 
 <details>
 
-<summary><strong>Support HackTricks and get benefits!</strong></summary>
+<summary><strong>ハックトリックスをサポートして特典を得る！</strong></summary>
 
-* If you want to see your **company advertised in HackTricks** or if you want access to the **latest version of the PEASS or download HackTricks in PDF** Check the [**SUBSCRIPTION PLANS**](https://github.com/sponsors/carlospolop)!
-* Get the [**official PEASS & HackTricks swag**](https://peass.creator-spring.com)
-* Discover [**The PEASS Family**](https://opensea.io/collection/the-peass-family), our collection of exclusive [**NFTs**](https://opensea.io/collection/the-peass-family)
-* **Join the** 💬 [**Discord group**](https://discord.gg/hRep4RUj7f) or the [**telegram group**](https://t.me/peass) or **follow** me on **Twitter** 🐦 [**@carlospolopm**](https://twitter.com/carlospolopm)**.**
-* **Share your hacking tricks by submitting PRs to the** [**HackTricks**](https://github.com/carlospolop/hacktricks) and [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud) github repos.
+* **HackTricksで会社を宣伝したい**場合や、**最新バージョンのPEASSにアクセスしたり、HackTricksをPDFでダウンロード**したい場合は、[**SUBSCRIPTION PLANS**](https://github.com/sponsors/carlospolop)をチェックしてください！
+* [**公式PEASS＆HackTricksグッズ**](https://peass.creator-spring.com)を手に入れる
+* [**The PEASS Family**](https://opensea.io/collection/the-peass-family)を見つける、私たちの独占的な[**NFT**](https://opensea.io/collection/the-peass-family)のコレクションを
+* **💬 [Discordグループ](https://discord.gg/hRep4RUj7f)**または[**telegramグループ**](https://t.me/peass)に参加するか、**Twitter**で私をフォローする🐦 [**@carlospolopm**](https://twitter.com/carlospolopm)**。**
+* **ハッキングトリックを共有するには、PRを提出して** [**HackTricks**](https://github.com/carlospolop/hacktricks) **および** [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud) **のGitHubリポジトリに参加してください。**
 
 </details>
 
 <figure><img src=".gitbook/assets/cloud gif.gif" alt="" width="563"><figcaption></figcaption></figure>
 
-_Hacktricks logos & motion designed by_ [_@ppiernacho_](https://www.instagram.com/ppieranacho/)_._
+_Hacktricksのロゴとモーションデザインは_ [_@ppiernacho_](https://www.instagram.com/ppieranacho/)_ によって作成されました。_
 
 {% hint style="info" %}
-Welcome to the page where you will find each **hacking trick/technique/whatever related to CI/CD & Cloud** I have learnt in **CTFs**, **real** life **environments**, **researching**, and **reading** researches and news.
+ここでは、**CI/CD＆クラウドに関連するハッキングトリック/テクニック/その他のすべて**を見つけることができます。これらは、**CTF**、**実際の**環境、**研究**、**研究とニュースの読書**で学んだものです。
 {% endhint %}
 
 ## **Pentesting CI/CD Methodology**
 
-**In the HackTricks CI/CD Methodology you will find how to pentest infrastructure related to CI/CD activities.** Read the following page for an **introduction:**
+**HackTricks CI/CD Methodologyでは、CI/CDアクティビティに関連するインフラストラクチャのペンテスト方法を見つけることができます。**以下のページを読んで、**導入**について説明します。
 
 {% content-ref url="pentesting-ci-cd/pentesting-ci-cd-methodology.md" %}
 [pentesting-ci-cd-methodology.md](pentesting-ci-cd/pentesting-ci-cd-methodology.md)
@@ -37,39 +35,39 @@ Welcome to the page where you will find each **hacking trick/technique/whatever 
 
 ## Pentesting Cloud Methodology
 
-**In the HackTricks Cloud Methodology you will find how to pentest cloud environments.** Read the following page for an **introduction:**
+**HackTricks Cloud Methodologyでは、クラウド環境のペンテスト方法を見つけることができます。**以下のページを読んで、**導入**について説明します。
 
 {% content-ref url="pentesting-cloud/pentesting-cloud-methodology.md" %}
 [pentesting-cloud-methodology.md](pentesting-cloud/pentesting-cloud-methodology.md)
 {% endcontent-ref %}
 
-## License
+## ライセンス
 
-**Copyright © Carlos Polop 2023. Except where otherwise specified (the external information copied into the book belongs to the original authors), the text on** [**HACK TRICKS CLOUD**](https://github.com/carlospolop/hacktricks-cloud) **by Carlos Polop is licensed under the**[ **Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**](https://creativecommons.org/licenses/by-nc/4.0/)**.**\
-**If you want to use it with commercial purposes, contact me.**
+**Copyright © Carlos Polop 2023. それ以外の場所で特に指定されていない限り（書籍にコピーされた外部情報は元の著者に帰属します）、Carlos Polopによる**[**HACK TRICKS CLOUD**](https://github.com/carlospolop/hacktricks-cloud)**のテキストは**[**Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**](https://creativecommons.org/licenses/by-nc/4.0/)**の下でライセンスされています。**\
+**商業目的で使用する場合は、お問い合わせください。**
 
-## **Disclaimer**
+## **免責事項**
 
 {% hint style="danger" %}
-This book, 'HackTricks Cloud,' is intended for educational and informational purposes only. The content within this book is provided on an 'as is' basis, and the authors and publishers make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability of the information, products, services, or related graphics contained within this book. Any reliance you place on such information is therefore strictly at your own risk.
+この書籍『HackTricks Cloud』は、教育および情報提供の目的でのみ使用することを意図しています。この書籍の内容は「現状のまま」提供され、著者および出版者は、この書籍内の情報、製品、サービス、または関連するグラフィックの完全性、正確性、信頼性、適合性、または利用可能性について、明示または黙示を問わず、いかなる種類の表明または保証も行いません。したがって、そのような情報に依存することは、完全に自己の責任で行ってください。
 
-The authors and publishers shall in no event be liable for any loss or damage, including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from loss of data or profits arising out of, or in connection with, the use of this book.
+著者および出版者は、この書籍の使用によって生じる、間接的または結果的な損失や損害、データの損失や利益の喪失を含む、いかなる損失や損害に対しても一切の責任を負いません。
 
-Furthermore, the techniques and tips described in this book are provided for educational and informational purposes only, and should not be used for any illegal or malicious activities. The authors and publishers do not condone or support any illegal or unethical activities, and any use of the information contained within this book is at the user's own risk and discretion.
+さらに、この書籍で説明されている技術やヒントは、教育および情報提供の目的でのみ提供されるものであり、いかなる違法または悪意のある活動にも使用してはなりません。著者および出版者は、違法または非倫理的な活動を是認または支持するものではなく、この書籍内の情報の使用は、ユーザー自身のリスクと裁量に基づくものです。
 
-The user is solely responsible for any actions taken based on the information contained within this book, and should always seek professional advice and assistance when attempting to implement any of the techniques or tips described herein.
+ユーザーは、この書籍内の情報に基づいて行われるすべての行動について、自己の責任であり、これらの技術やヒントを実装しようとする場合は常に専門の助言と支援を求めるべきです。
 
-By using this book, the user agrees to release the authors and publishers from any and all liability and responsibility for any damages, losses, or harm that may result from the use of this book or any of the information contained within it.
+この書籍を使用することで、ユーザーは、著者および出版者を、この書籍またはその中に含まれる情報の使用によって生じるいかなる損害、損失、または害に対しても、一切の責任と責任から免除することに同意します。
 {% endhint %}
 
 <details>
 
-<summary><strong>Support HackTricks and get benefits!</strong></summary>
+<summary><strong>ハックトリックスをサポートして特典を得る！</strong></summary>
 
-* If you want to see your **company advertised in HackTricks** or if you want access to the **latest version of the PEASS or download HackTricks in PDF** Check the [**SUBSCRIPTION PLANS**](https://github.com/sponsors/carlospolop)!
-* Get the [**official PEASS & HackTricks swag**](https://peass.creator-spring.com)
-* Discover [**The PEASS Family**](https://opensea.io/collection/the-peass-family), our collection of exclusive [**NFTs**](https://opensea.io/collection/the-peass-family)
-* **Join the** 💬 [**Discord group**](https://discord.gg/hRep4RUj7f) or the [**telegram group**](https://t.me/peass) or **follow** me on **Twitter** 🐦 [**@carlospolopm**](https://twitter.com/carlospolopm)**.**
-* **Share your hacking tricks by submitting PRs to the** [**HackTricks**](https://github.com/carlospolop/hacktricks) and [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud) github repos.
+* **HackTricksで会社を宣伝したい**場合や、**最新バージョンのPEASSにアクセスしたり、HackTricksをPDFでダウンロード**したい場合は、[**SUBSCRIPTION PLANS**](https://github.com/sponsors/carlospolop)をチェックしてください！
+* [**公式PEASS＆HackTricksグッズ**](https://peass.creator-spring.com)を手に入れる
+* [**The PEASS Family**](https://opensea.io/collection/the-peass-family)を見つける、私たちの独占的な[**NFT**](https://opensea.io/collection/the-peass-family)のコレクションを
+* **💬 [Discordグループ](https://discord.gg/hRep4RUj7f)**または[**telegramグループ**](https://t.me/peass)に参加するか、**Twitter**で私をフォローする🐦 [**@carlospolopm**](https://twitter.com/carlospolopm)**。**
+* **ハッキングトリックを共有するには、PRを提出して** [**HackTricks**](https://github.com/carlospolop/hacktricks) **および** [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud) **のGitHubリポジトリに参加してください。**
 
 </details>
