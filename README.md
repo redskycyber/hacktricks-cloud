@@ -1,68 +1,68 @@
-# HackTricks Cloud
+# HackTricks 云
 
 <details>
 
-<summary><strong>Support HackTricks and get benefits!</strong></summary>
+<summary><strong>支持 HackTricks 并获得福利！</strong></summary>
 
-* If you want to see your **company advertised in HackTricks** or if you want access to the **latest version of the PEASS or download HackTricks in PDF** Check the [**SUBSCRIPTION PLANS**](https://github.com/sponsors/carlospolop)!
-* Get the [**official PEASS & HackTricks swag**](https://peass.creator-spring.com)
-* Discover [**The PEASS Family**](https://opensea.io/collection/the-peass-family), our collection of exclusive [**NFTs**](https://opensea.io/collection/the-peass-family)
-* **Join the** 💬 [**Discord group**](https://discord.gg/hRep4RUj7f) or the [**telegram group**](https://t.me/peass) or **follow** me on **Twitter** 🐦 [**@carlospolopm**](https://twitter.com/carlospolopm)**.**
-* **Share your hacking tricks by submitting PRs to the** [**HackTricks**](https://github.com/carlospolop/hacktricks) and [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud) github repos.
+* 如果您想在 HackTricks 中看到您的公司广告，或者想要访问最新版本的 PEASS 或下载 HackTricks 的 PDF，请查看[**订阅计划**](https://github.com/sponsors/carlospolop)！
+* 获取[**官方 PEASS 和 HackTricks 商品**](https://peass.creator-spring.com)
+* 发现我们的独家[**NFT**](https://opensea.io/collection/the-peass-family)收藏品[**The PEASS Family**](https://opensea.io/collection/the-peass-family)
+* **加入** 💬 [**Discord 群组**](https://discord.gg/hRep4RUj7f) 或 [**Telegram 群组**](https://t.me/peass) 或 **关注**我的 **Twitter** 🐦 [**@carlospolopm**](https://twitter.com/carlospolopm)**。**
+* **通过向** [**HackTricks**](https://github.com/carlospolop/hacktricks) **和** [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud) **github 仓库提交 PR 来分享您的黑客技巧。**
 
 </details>
 
 <figure><img src=".gitbook/assets/cloud gif.gif" alt="" width="563"><figcaption></figcaption></figure>
 
-_Hacktricks logos & motion designed by_ [_@ppiernacho_](https://www.instagram.com/ppieranacho/)_._
+_Hacktricks 的标志和动画设计由_ [_@ppiernacho_](https://www.instagram.com/ppieranacho/)_._
 
 {% hint style="info" %}
-Welcome to the page where you will find each **hacking trick/technique/whatever related to CI/CD & Cloud** I have learnt in **CTFs**, **real** life **environments**, **researching**, and **reading** researches and news.
+欢迎来到这个页面，您将在这里找到我在 CTF、真实环境、研究和阅读研究和新闻中学到的与 CI/CD 和云相关的每个黑客技巧/技术/任何内容。
 {% endhint %}
 
-## **Pentesting CI/CD Methodology**
+## **渗透测试 CI/CD 方法论**
 
-**In the HackTricks CI/CD Methodology you will find how to pentest infrastructure related to CI/CD activities.** Read the following page for an **introduction:**
+**在 HackTricks CI/CD 方法论中，您将找到如何渗透测试与 CI/CD 活动相关的基础设施。**请阅读以下页面了解**简介：**
 
 {% content-ref url="pentesting-ci-cd/pentesting-ci-cd-methodology.md" %}
 [pentesting-ci-cd-methodology.md](pentesting-ci-cd/pentesting-ci-cd-methodology.md)
 {% endcontent-ref %}
 
-## Pentesting Cloud Methodology
+## 渗透测试云方法论
 
-**In the HackTricks Cloud Methodology you will find how to pentest cloud environments.** Read the following page for an **introduction:**
+**在 HackTricks 云方法论中，您将找到如何渗透测试云环境。**请阅读以下页面了解**简介：**
 
 {% content-ref url="pentesting-cloud/pentesting-cloud-methodology.md" %}
 [pentesting-cloud-methodology.md](pentesting-cloud/pentesting-cloud-methodology.md)
 {% endcontent-ref %}
 
-## License
+## 许可证
 
-**Copyright © Carlos Polop 2023. Except where otherwise specified (the external information copied into the book belongs to the original authors), the text on** [**HACK TRICKS CLOUD**](https://github.com/carlospolop/hacktricks-cloud) **by Carlos Polop is licensed under the**[ **Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**](https://creativecommons.org/licenses/by-nc/4.0/)**.**\
-**If you want to use it with commercial purposes, contact me.**
+**版权所有 © Carlos Polop 2023。除非另有规定（复制到本书中的外部信息属于原始作者），否则 Carlos Polop 的**[**HACK TRICKS CLOUD**](https://github.com/carlospolop/hacktricks-cloud) **中的文本受**[**署名-非商业性使用 4.0 国际 (CC BY-NC 4.0)**](https://creativecommons.org/licenses/by-nc/4.0/) **许可。**\
+**如果您想以商业目的使用它，请与我联系。**
 
-## **Disclaimer**
+## **免责声明**
 
 {% hint style="danger" %}
-This book, 'HackTricks Cloud,' is intended for educational and informational purposes only. The content within this book is provided on an 'as is' basis, and the authors and publishers make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability of the information, products, services, or related graphics contained within this book. Any reliance you place on such information is therefore strictly at your own risk.
+本书《HackTricks 云》仅用于教育和信息目的。本书中的内容基于“原样”提供，作者和出版商对本书中包含的信息、产品、服务或相关图形的完整性、准确性、可靠性、适用性或可用性不作任何明示或暗示的陈述或保证。您对此类信息的任何依赖均完全由您自己承担风险。
 
-The authors and publishers shall in no event be liable for any loss or damage, including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from loss of data or profits arising out of, or in connection with, the use of this book.
+作者和出版商在任何情况下均不对任何损失或损害（包括但不限于间接或后果性的损失或损害，或因使用本书而导致的数据或利润的任何损失或损害）承担责任，或与使用本书有关。
 
-Furthermore, the techniques and tips described in this book are provided for educational and informational purposes only, and should not be used for any illegal or malicious activities. The authors and publishers do not condone or support any illegal or unethical activities, and any use of the information contained within this book is at the user's own risk and discretion.
+此外，本书中描述的技术和提示仅供教育和信息目的，不得用于任何非法或恶意活动。作者和出版商不赞同或支持任何非法或不道德的活动，任何使用本书中所包含的信息都由用户自行承担风险和决定。
 
-The user is solely responsible for any actions taken based on the information contained within this book, and should always seek professional advice and assistance when attempting to implement any of the techniques or tips described herein.
+用户对基于本书中所包含的信息采取的任何行动负有全部责任，并在尝试实施本书中所描述的任何技术或提示时，应始终寻求专业建议和帮助。
 
-By using this book, the user agrees to release the authors and publishers from any and all liability and responsibility for any damages, losses, or harm that may result from the use of this book or any of the information contained within it.
+通过使用本书，用户同意免除作者和出版商对因使用本书或其中包含的任何信息而导致的任何损害、损失或伤害的任何责任和责任。
 {% endhint %}
 
 <details>
 
-<summary><strong>Support HackTricks and get benefits!</strong></summary>
+<summary><strong>支持 HackTricks 并获得福利！</strong></summary>
 
-* If you want to see your **company advertised in HackTricks** or if you want access to the **latest version of the PEASS or download HackTricks in PDF** Check the [**SUBSCRIPTION PLANS**](https://github.com/sponsors/carlospolop)!
-* Get the [**official PEASS & HackTricks swag**](https://peass.creator-spring.com)
-* Discover [**The PEASS Family**](https://opensea.io/collection/the-peass-family), our collection of exclusive [**NFTs**](https://opensea.io/collection/the-peass-family)
-* **Join the** 💬 [**Discord group**](https://discord.gg/hRep4RUj7f) or the [**telegram group**](https://t.me/peass) or **follow** me on **Twitter** 🐦 [**@carlospolopm**](https://twitter.com/carlospolopm)**.**
-* **Share your hacking tricks by submitting PRs to the** [**HackTricks**](https://github.com/carlospolop/hacktricks) and [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud) github repos.
+* 如果您想在 HackTricks 中看到您的公司广告，或者想要访问最新版本的 PEASS 或下载 HackTricks 的 PDF，请查看[**订阅计划**](https://github.com/sponsors/carlospolop)！
+* 获取[**官方 PEASS 和 HackTricks 商品**](https://peass.creator-spring.com)
+* 发现我们的独家[**NFT**](https://opensea.io/collection/the-peass-family)收藏品[**The PEASS Family**](https://opensea.io/collection/the-peass-family)
+* **加入** 💬 [**Discord 群组**](https://discord.gg/hRep4RUj7f) 或 [**Telegram 群组**](https://t.me/peass) 或 **关注**我的 **Twitter** 🐦 [**@carlospolopm**](https://twitter.com/carlospolopm)**.**
+* **通过向** [**HackTricks**](https://github.com/carlospolop/hacktricks) **和** [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud) **github 仓库提交 PR 来分享您的黑客技巧。**
 
 </details>
