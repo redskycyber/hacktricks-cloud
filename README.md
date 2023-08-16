@@ -12,11 +12,11 @@
 
 </details>
 
-<figure><img src=".gitbook/assets/cloud gif.gif" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/cloud.gif" alt=""><figcaption></figcaption></figure>
 
 _Logos y animaciones de Hacktricks diseñados por_ [_@ppiernacho_](https://www.instagram.com/ppieranacho/)_._
 
-{% hint style="info" %}
+{% hint style="success" %}
 Bienvenido a la página donde encontrarás cada **truco/técnica/lo que sea relacionado con CI/CD y Cloud** que he aprendido en **CTFs**, **entornos** **reales**, **investigación** y **lectura** de investigaciones y noticias.
 {% endhint %}
 
@@ -48,11 +48,11 @@ Este libro, 'HackTricks Cloud', está destinado únicamente a fines educativos e
 
 Los autores y editores no serán responsables en ningún caso de ninguna pérdida o daño, incluyendo, entre otros, pérdida o daño indirecto o consecuente, o cualquier pérdida o daño que surja de la pérdida de datos o beneficios derivados del uso de este libro.
 
-Además, las técnicas y consejos descritos en este libro se proporcionan únicamente con fines educativos e informativos, y no deben utilizarse para actividades ilegales o maliciosas. Los autores y editores no aprueban ni respaldan ninguna actividad ilegal o éticamente incorrecta, y cualquier uso de la información contenida en este libro es responsabilidad y discreción del usuario.
+Además, las técnicas y consejos descritos en este libro se proporcionan únicamente con fines educativos e informativos, y no deben utilizarse para actividades ilegales o maliciosas. Los autores y editores no aprueban ni respaldan ninguna actividad ilegal o éticamente cuestionable, y cualquier uso de la información contenida en este libro es responsabilidad y discreción del usuario.
 
 El usuario es el único responsable de cualquier acción tomada basada en la información contenida en este libro, y siempre debe buscar asesoramiento y ayuda profesional al intentar implementar cualquiera de las técnicas o consejos descritos en él.
 
-Al utilizar este libro, el usuario acepta liberar a los autores y editores de cualquier responsabilidad y responsabilidad por cualquier daño, pérdida o perjuicio que pueda resultar del uso de este libro o de cualquiera de la información contenida en él.
+Al utilizar este libro, el usuario acepta liberar a los autores y editores de cualquier responsabilidad por cualquier daño, pérdida o perjuicio que pueda resultar del uso de este libro o de cualquiera de la información contenida en él.
 {% endhint %}
 
 <details>
