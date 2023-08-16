@@ -12,11 +12,11 @@
 
 </details>
 
-<figure><img src=".gitbook/assets/cloud gif.gif" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/cloud.gif" alt=""><figcaption></figcaption></figure>
 
 _Logos e animações do Hacktricks projetados por_ [_@ppiernacho_](https://www.instagram.com/ppieranacho/)_._
 
-{% hint style="info" %}
+{% hint style="success" %}
 Bem-vindo à página onde você encontrará cada **truque/técnica/qualquer coisa relacionada a CI/CD & Cloud** que aprendi em **CTFs**, **ambientes** **reais**, **pesquisando** e **lendo** pesquisas e notícias.
 {% endhint %}
 
