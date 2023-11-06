@@ -2,67 +2,48 @@
 
 <details>
 
-<summary><strong>Support HackTricks and get benefits!</strong></summary>
+<summary><strong>हैकट्रिक्स का समर्थन करें और लाभ प्राप्त करें!</strong></summary>
 
-* If you want to see your **company advertised in HackTricks** or if you want access to the **latest version of the PEASS or download HackTricks in PDF** Check the [**SUBSCRIPTION PLANS**](https://github.com/sponsors/carlospolop)!
-* Get the [**official PEASS & HackTricks swag**](https://peass.creator-spring.com)
-* Discover [**The PEASS Family**](https://opensea.io/collection/the-peass-family), our collection of exclusive [**NFTs**](https://opensea.io/collection/the-peass-family)
-* **Join the** 💬 [**Discord group**](https://discord.gg/hRep4RUj7f) or the [**telegram group**](https://t.me/peass) or **follow** me on **Twitter** 🐦 [**@carlospolopm**](https://twitter.com/carlospolopm)**.**
-* **Share your hacking tricks by submitting PRs to the** [**HackTricks**](https://github.com/carlospolop/hacktricks) and [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud) github repos.
+* यदि आप अपनी कंपनी को **हैकट्रिक्स में विज्ञापित करना चाहते हैं** या यदि आप **PEASS के नवीनतम संस्करण देखना चाहते हैं या पीडीएफ में हैकट्रिक्स डाउनलोड करना चाहते हैं** तो [**सदस्यता योजनाएं**](https://github.com/sponsors/carlospolop) देखें!
+* [**आधिकारिक PEASS और हैकट्रिक्स स्वैग**](https://peass.creator-spring.com) प्राप्त करें
+* [**द पीएस फैमिली**](https://opensea.io/collection/the-peass-family) की खोज करें, हमारा एकल [**NFTs**](https://opensea.io/collection/the-peass-family) संग्रह
+* **💬 [**डिस्कॉर्ड समूह**](https://discord.gg/hRep4RUj7f) या [**टेलीग्राम समूह**](https://t.me/peass) में शामिल हों या मुझे ट्विटर पर फॉलो करें** 🐦 [**@carlospolopm**](https://twitter.com/carlospolopm)**.**
+* **हैकिंग ट्रिक्स साझा करें, PRs सबमिट करके** [**HackTricks**](https://github.com/carlospolop/hacktricks) **और** [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud) **github repos में।**
 
 </details>
 
 <figure><img src=".gitbook/assets/cloud.gif" alt=""><figcaption></figcaption></figure>
 
-_Hacktricks logos & motion designed by_ [_@ppiernacho_](https://www.instagram.com/ppieranacho/)_._
+_हैकट्रिक्स लोगो और मोशन डिजाइन की डिजाइनिंग की गई है_ [_@ppiernacho_](https://www.instagram.com/ppieranacho/)_._
 
 {% hint style="success" %}
-Welcome to the page where you will find each **hacking trick/technique/whatever related to CI/CD & Cloud** I have learnt in **CTFs**, **real** life **environments**, **researching**, and **reading** researches and news.
+यहां आपको प्रत्येक **हैकिंग ट्रिक/तकनीक/सीआई/सीडी और क्लाउड से संबंधित** जानकारी मिलेगी जो मैंने **CTFs**, **वास्तविक** जीवन **पर्यावरण**, **शोध**, और **अध्ययन** से सीखी है।
 {% endhint %}
 
-## **Pentesting CI/CD Methodology**
+## **पेंटेस्टिंग सीआई/सीडी मेथडोलॉजी**
 
-**In the HackTricks CI/CD Methodology you will find how to pentest infrastructure related to CI/CD activities.** Read the following page for an **introduction:**
+**हैकट्रिक्स सीआई/सीडी मेथडोलॉजी में आपको सीआई/सीडी गतिविधियों से संबंधित इंफ्रास्ट्रक्चर को पेंटेस्ट करने के तरीके मिलेंगे।** एक **परिचय** के लिए निम्नलिखित पृष्ठ को पढ़ें:
 
 {% content-ref url="pentesting-ci-cd/pentesting-ci-cd-methodology.md" %}
 [pentesting-ci-cd-methodology.md](pentesting-ci-cd/pentesting-ci-cd-methodology.md)
 {% endcontent-ref %}
 
-## Pentesting Cloud Methodology
+## क्लाउड मेथडोलॉजी का पेंटेस्टिंग
 
-**In the HackTricks Cloud Methodology you will find how to pentest cloud environments.** Read the following page for an **introduction:**
+**हैकट्रिक्स क्लाउड मेथडोलॉजी में आपको क्लाउड पर्यावरणों को पेंटेस्ट करने के तरीके मिलेंगे।** एक **परिचय** के लिए निम्नलिखित पृष्ठ को पढ़ें:
 
 {% content-ref url="pentesting-cloud/pentesting-cloud-methodology.md" %}
 [pentesting-cloud-methodology.md](pentesting-cloud/pentesting-cloud-methodology.md)
 {% endcontent-ref %}
 
-## License
+## लाइसेंस
 
-**Copyright © Carlos Polop 2023. Except where otherwise specified (the external information copied into the book belongs to the original authors), the text on** [**HACK TRICKS CLOUD**](https://github.com/carlospolop/hacktricks-cloud) **by Carlos Polop is licensed under the**[ **Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**](https://creativecommons.org/licenses/by-nc/4.0/)**.**\
-**If you want to use it with commercial purposes, contact me.**
+**कॉपीराइट © कार्लोस पोलोप 2023। जहां अन्यथा निर्दिष्ट नहीं है (पुस्तक में कॉपी की गई बाहरी जानकारी मूल लेखकों की संपत्ति है), कार्लोस पोलोप द्वारा लिखित** [**HACK TRICKS CLOUD**](https://github.com/carlospolop/hacktricks-cloud) **पर के लिए अभिज्ञापन-गैर-वाणिज्यिक 4.0 अंतर्राष्ट्रीय (CC BY-NC 4.0)**](https://creativecommons.org/licenses/by-nc/4.0/)** लाइसेंस के तहत है।**\
+**यदि आप इसे वाणिज्यिक उद्देश्यों के साथ उपयोग करना चाहते हैं, तो मुझसे संपर्क करें।**
 
-## **Disclaimer**
+## **अस्वीकरण**
 
 {% hint style="danger" %}
-This book, 'HackTricks Cloud,' is intended for educational and informational purposes only. The content within this book is provided on an 'as is' basis, and the authors and publishers make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability of the information, products, services, or related graphics contained within this book. Any reliance you place on such information is therefore strictly at your own risk.
+यह पुस्तक, 'हैकट्रिक्स क्लाउड,' केवल शैक्षिक और सूचनात्मक उद्देश्यों के लिए है। इस पुस्तक में दी गई सामग्री 'जैसी है', और लेखक और प्रकाशक किसी भी प्रकार की पूर्णता, सटीकता, विश्वसनीयता, उपयुक्तता, या जानकारी, उत्पाद, सेवाएं, या इस पुस्तक में शामिल ग्राफिक्स की उपलब्धता के बारे में कोई प्रतिनिधि या वारंटी नहीं देते हैं। इस जानकारी पर आपकी किसी भी आश्रय करने की आवश्यकता है, इसलिए आपकी जिम्मेदारी है।
 
-The authors and publishers shall in no event be liable for any loss or damage, including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from loss of data or profits arising out of, or in connection with, the use of this book.
-
-Furthermore, the techniques and tips described in this book are provided for educational and informational purposes only, and should not be used for any illegal or malicious activities. The authors and publishers do not condone or support any illegal or unethical activities, and any use of the information contained within this book is at the user's own risk and discretion.
-
-The user is solely responsible for any actions taken based on the information contained within this book, and should always seek professional advice and assistance when attempting to implement any of the techniques or tips described herein.
-
-By using this book, the user agrees to release the authors and publishers from any and all liability and responsibility for any damages, losses, or harm that may result from the use of this book or any of the information contained within it.
-{% endhint %}
-
-<details>
-
-<summary><strong>Support HackTricks and get benefits!</strong></summary>
-
-* If you want to see your **company advertised in HackTricks** or if you want access to the **latest version of the PEASS or download HackTricks in PDF** Check the [**SUBSCRIPTION PLANS**](https://github.com/sponsors/carlospolop)!
-* Get the [**official PEASS & HackTricks swag**](https://peass.creator-spring.com)
-* Discover [**The PEASS Family**](https://opensea.io/collection/the-peass-family), our collection of exclusive [**NFTs**](https://opensea.io/collection/the-peass-family)
-* **Join the** 💬 [**Discord group**](https://discord.gg/hRep4RUj7f) or the [**telegram group**](https://t.me/peass) or **follow** me on **Twitter** 🐦 [**@carlospolopm**](https://twitter.com/carlospolopm)**.**
-* **Share your hacking tricks by submitting PRs to the** [**HackTricks**](https://github.com/carlospolop/hacktricks) and [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud) github repos.
-
-</details>
+लेखक और प्रकाशक किसी भी हानि या क्षति के लिए जिम्मेदार नहीं होंगे, जिसमें बिना सीमा या परिणामस्वरूप हानि या क्षति, या किसी भी डेटा या लाभ की हानि या क्षति से होने वाली किसी भी हानि या क्षति से होने वाली किसी भी हानि या क्षति से होने वाली किसी भी हानि या क्षति से होने वाली किसी भी हानि या क्षति से होने वाली किसी भी हानि या क्षति से होने वाली किसी भी हानि या क्षति से होने वाली किसी भी हानि या क्षति से होने वाली किसी भी हानि या क्षति से होने वाली किसी भी हानि या क्षति से होने वाली किसी भी हानि या क्षति से होने वाली किसी भी
