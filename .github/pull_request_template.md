@@ -1,10 +1,9 @@
-## Attribution
-We value your knowledge and encourage you to share content. Please ensure that you only upload content that you own or have explicit permission to use from the original author. Your respect for intellectual property rights fosters a trustworthy and legal sharing environment for everyone.
+## Pripisivanje
+Cenimo vaše znanje i ohrabrujemo vas da delite sadržaj. Molimo vas da samo otpremate sadržaj koji je vaš ili za koji imate izričitu dozvolu od originalnog autora. Vaše poštovanje intelektualnih prava stvara pouzdano i legalno okruženje za deljenje za sve.
 
-## HackTricks Training
-If you are adding so you can pass the in the [ARTE certification](https://training.hacktricks.xyz/courses/arte) exam with 2 flags instead of 3, you need to call the PR `arte-<username>`.
+## HackTricks Obuka
+Ako dodajete sadržaj kako biste položili [ARTE sertifikaciju](https://training.hacktricks.xyz/courses/arte) ispit sa 2 zastavice umesto 3, trebate nazvati PR `arte-<korisničko_ime>`.
 
-Also, remember that grammar/syntax fixes won't be accepted for the exam flag reduction.
+Takođe, zapamtite da ispravke gramatike/sintakse neće biti prihvaćene za smanjenje broja zastavica na ispitu.
 
-
-In any case, thanks for contributing to HackTricks!
+U svakom slučaju, hvala vam što doprinosite HackTricks-u!
