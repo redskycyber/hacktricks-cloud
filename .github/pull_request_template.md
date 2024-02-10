@@ -1,10 +1,9 @@
-## Attribution
-We value your knowledge and encourage you to share content. Please ensure that you only upload content that you own or have explicit permission to use from the original author. Your respect for intellectual property rights fosters a trustworthy and legal sharing environment for everyone.
+## 속성
+우리는 당신의 지식을 소중히 여기며, 콘텐츠를 공유할 것을 권장합니다. 원작자의 명시적인 허가를 가지거나 소유한 콘텐츠만 업로드하도록 해주세요. 지적 재산권에 대한 존중은 신뢰할 수 있고 법적으로 허용된 공유 환경을 조성합니다.
 
-## HackTricks Training
-If you are adding so you can pass the in the [ARTE certification](https://training.hacktricks.xyz/courses/arte) exam with 2 flags instead of 3, you need to call the PR `arte-<username>`.
+## HackTricks 훈련
+[ARTE 인증](https://training.hacktricks.xyz/courses/arte) 시험에서 3개 대신 2개의 깃발을 통과하려면 PR을 `arte-<사용자명>`으로 지정해야 합니다.
 
-Also, remember that grammar/syntax fixes won't be accepted for the exam flag reduction.
+또한, 문법/구문 수정은 시험 깃발 감소를 위해 허용되지 않습니다.
 
-
-In any case, thanks for contributing to HackTricks!
+어떤 경우에도 HackTricks에 기여해 주셔서 감사합니다!

@@ -2,29 +2,29 @@
 
 <details>
 
-<summary><strong>Learn AWS hacking from zero to hero with</strong> <a href="https://training.hacktricks.xyz/courses/arte"><strong>htARTE (HackTricks AWS Red Team Expert)</strong></a><strong>!</strong></summary>
+<summary><strong>htARTE (HackTricks AWS Red Team Expert)</strong>를 통해 AWS 해킹을 처음부터 전문가까지 배워보세요<strong>!</strong></summary>
 
-Other ways to support HackTricks:
+HackTricks를 지원하는 다른 방법:
 
-* If you want to see your **company advertised in HackTricks** or **download HackTricks in PDF** Check the [**SUBSCRIPTION PLANS**](https://github.com/sponsors/carlospolop)!
-* Get the [**official PEASS & HackTricks swag**](https://peass.creator-spring.com)
-* Discover [**The PEASS Family**](https://opensea.io/collection/the-peass-family), our collection of exclusive [**NFTs**](https://opensea.io/collection/the-peass-family)
-* **Join the** 💬 [**Discord group**](https://discord.gg/hRep4RUj7f) or the [**telegram group**](https://t.me/peass) or **follow** me on **Twitter** 🐦 [**@hacktricks_live**](https://twitter.com/hacktricks_live)**.**
-* **Share your hacking tricks by submitting PRs to the** [**HackTricks**](https://github.com/carlospolop/hacktricks) and [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud) github repos.
+* **회사를 HackTricks에서 광고하거나 HackTricks를 PDF로 다운로드**하려면 [**SUBSCRIPTION PLANS**](https://github.com/sponsors/carlospolop)를 확인하세요!
+* [**공식 PEASS & HackTricks 상품**](https://peass.creator-spring.com)을 구매하세요.
+* [**The PEASS Family**](https://opensea.io/collection/the-peass-family)를 발견하세요. 독점적인 [**NFTs**](https://opensea.io/collection/the-peass-family) 컬렉션입니다.
+* 💬 [**Discord 그룹**](https://discord.gg/hRep4RUj7f) 또는 [**텔레그램 그룹**](https://t.me/peass)에 **참여**하거나 **Twitter** 🐦 [**@hacktricks_live**](https://twitter.com/hacktricks_live)를 **팔로우**하세요.
+* **Hacking 트릭을 공유하려면** [**HackTricks**](https://github.com/carlospolop/hacktricks) 및 [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud) github 저장소에 PR을 제출하세요.
 
 </details>
 
 <figure><img src=".gitbook/assets/cloud.gif" alt=""><figcaption></figcaption></figure>
 
-_Hacktricks logos & motion designed by_ [_@ppiernacho_](https://www.instagram.com/ppieranacho/)_._
+_Hacktricks 로고 및 모션 디자인 by_ [_@ppiernacho_](https://www.instagram.com/ppieranacho/)_._
 
 {% hint style="success" %}
-Welcome to the page where you will find each **hacking trick/technique/whatever related to CI/CD & Cloud** I have learnt in **CTFs**, **real** life **environments**, **researching**, and **reading** researches and news.
+CTF, 실제 환경, 연구 및 뉴스를 통해 배운 **CI/CD 및 클라우드와 관련된 모든 해킹 트릭/기술/기타**를 찾을 수 있는 페이지에 오신 것을 환영합니다.
 {% endhint %}
 
 ## **Pentesting CI/CD Methodology**
 
-**In the HackTricks CI/CD Methodology you will find how to pentest infrastructure related to CI/CD activities.** Read the following page for an **introduction:**
+**HackTricks CI/CD Methodology에서는 CI/CD 활동과 관련된 인프라를 펜테스트하는 방법을 찾을 수 있습니다.** **소개를 위해 다음 페이지를 읽어보세요:**
 
 {% content-ref url="pentesting-ci-cd/pentesting-ci-cd-methodology.md" %}
 [pentesting-ci-cd-methodology.md](pentesting-ci-cd/pentesting-ci-cd-methodology.md)
@@ -32,7 +32,7 @@ Welcome to the page where you will find each **hacking trick/technique/whatever 
 
 ## Pentesting Cloud Methodology
 
-**In the HackTricks Cloud Methodology you will find how to pentest cloud environments.** Read the following page for an **introduction:**
+**HackTricks Cloud Methodology에서는 클라우드 환경을 펜테스트하는 방법을 찾을 수 있습니다.** **소개를 위해 다음 페이지를 읽어보세요:**
 
 {% content-ref url="pentesting-cloud/pentesting-cloud-methodology.md" %}
 [pentesting-cloud-methodology.md](pentesting-cloud/pentesting-cloud-methodology.md)
@@ -40,33 +40,33 @@ Welcome to the page where you will find each **hacking trick/technique/whatever 
 
 ## License
 
-**Copyright © Carlos Polop 2023. Except where otherwise specified (the external information copied into the book belongs to the original authors), the text on** [**HACK TRICKS CLOUD**](https://github.com/carlospolop/hacktricks-cloud) **by Carlos Polop is licensed under the**[ **Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**](https://creativecommons.org/licenses/by-nc/4.0/)**.**\
-**If you want to use it with commercial purposes, contact me.**
+**저작권 © Carlos Polop 2023. (책에 복사된 외부 정보는 원래 저작자에게 속합니다.)** [**HACK TRICKS CLOUD**](https://github.com/carlospolop/hacktricks-cloud) **의 텍스트는** [**Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**](https://creativecommons.org/licenses/by-nc/4.0/) **에 따라 Carlos Polop의 라이선스가 부여됩니다.**\
+**상업적 목적으로 사용하려면 저에게 연락하세요.**
 
 ## **Disclaimer**
 
 {% hint style="danger" %}
-This book, 'HackTricks Cloud,' is intended for educational and informational purposes only. The content within this book is provided on an 'as is' basis, and the authors and publishers make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability of the information, products, services, or related graphics contained within this book. Any reliance you place on such information is therefore strictly at your own risk.
+이 책 'HackTricks Cloud'는 교육 및 정보 제공 목적으로만 제공됩니다. 이 책의 내용은 '있는 그대로' 제공되며, 저자 및 출판사는 이 책에 포함된 정보, 제품, 서비스 또는 관련 그래픽의 완전성, 정확성, 신뢰성, 적합성 또는 가용성에 대해 명시적 또는 묵시적으로 어떠한 종류의 보증도하지 않습니다. 이러한 정보에 의존하는 경우 사용자의 책임으로 이루어집니다.
 
-The authors and publishers shall in no event be liable for any loss or damage, including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from loss of data or profits arising out of, or in connection with, the use of this book.
+저자 및 출판사는 이 책의 사용으로 인해 발생하는 데이터 손실 또는 이익 손실을 포함한 어떠한 손실이나 손해에 대해서도 책임을 지지 않습니다.
 
-Furthermore, the techniques and tips described in this book are provided for educational and informational purposes only, and should not be used for any illegal or malicious activities. The authors and publishers do not condone or support any illegal or unethical activities, and any use of the information contained within this book is at the user's own risk and discretion.
+또한, 이 책에 설명된 기술과 팁은 교육 및 정보 제공 목적으로만 제공되며, 불법적이거나 악의적인 활동에 사용해서는 안 됩니다. 저자 및 출판사는 불법적이거나 비윤리적인 활동을 지지하지 않으며, 이 책에 포함된 정보를 사용하는 것은 사용자의 자체적인 책임과 판단에 따라 이루어져야 합니다.
 
-The user is solely responsible for any actions taken based on the information contained within this book, and should always seek professional advice and assistance when attempting to implement any of the techniques or tips described herein.
+사용자는 이 책에 포함된 정보를 기반으로 한 모든 조치에 대해 전적으로 책임이 있으며, 이 책에 설명된 기술이나 팁을 구현하려는 경우 항상 전문적인 조언과 지원을 구해야 합니다.
 
-By using this book, the user agrees to release the authors and publishers from any and all liability and responsibility for any damages, losses, or harm that may result from the use of this book or any of the information contained within it.
+이 책을 사용함으로써 사용자는 저자 및 출판사를 어떠한 책임과 책임도 면제하고, 이 책이나 그 안에 포함된 정보의 사용으로 인해 발생할 수 있는 어떠한 손해, 손실 또는 피해에 대해서도 책임을 지지 않는 데 동의합니다.
 {% endhint %}
 
 <details>
 
-<summary><strong>Learn AWS hacking from zero to hero with</strong> <a href="https://training.hacktricks.xyz/courses/arte"><strong>htARTE (HackTricks AWS Red Team Expert)</strong></a><strong>!</strong></summary>
+<summary><strong>htARTE (HackTricks AWS Red Team Expert)</strong>를 통해 AWS 해킹을 처음부터 전문가까지 배워보세요<strong>!</strong></summary>
 
-Other ways to support HackTricks:
+HackTricks를 지원하는 다른 방법:
 
-* If you want to see your **company advertised in HackTricks** or **download HackTricks in PDF** Check the [**SUBSCRIPTION PLANS**](https://github.com/sponsors/carlospolop)!
-* Get the [**official PEASS & HackTricks swag**](https://peass.creator-spring.com)
-* Discover [**The PEASS Family**](https://opensea.io/collection/the-peass-family), our collection of exclusive [**NFTs**](https://opensea.io/collection/the-peass-family)
-* **Join the** 💬 [**Discord group**](https://discord.gg/hRep4RUj7f) or the [**telegram group**](https://t.me/peass) or **follow** me on **Twitter** 🐦 [**@hacktricks_live**](https://twitter.com/hacktricks_live)**.**
-* **Share your hacking tricks by submitting PRs to the** [**HackTricks**](https://github.com/carlospolop/hacktricks) and [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud) github repos.
+* **회사를 HackTricks에서 광고하거나 HackTricks를 PDF로 다운로드**하려면 [**SUBSCRIPTION PLANS**](https://github.com/sponsors/carlospolop)를 확인하세요!
+* [**공식 PEASS & HackTricks 상품**](https://peass.creator-spring.com)을 구매하세요.
+* [**The PEASS Family**](https://opensea.io/collection/the-peass-family)를 발견하세요. 독점적인 [**NFTs**](https://opensea.io/collection/the-peass-family) 컬렉션입니다.
+* 💬 [**Discord 그룹**](https://discord.gg/hRep4RUj7f) 또는 [**텔레그램 그룹**](https://t.me/peass)에 **참여**하거나 **Twitter** 🐦 [**@hacktricks_live**](https://twitter.com/hacktricks_live)를 **팔로우**하세요.
+* **Hacking 트릭을 공유하려면** [**HackTricks**](https://github.com/carlospolop/hacktricks) 및 [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud) github 저장소에 PR을 제출하세요.
 
 </details>
