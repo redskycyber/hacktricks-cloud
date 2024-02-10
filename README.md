@@ -2,71 +2,52 @@
 
 <details>
 
-<summary><strong>Learn AWS hacking from zero to hero with</strong> <a href="https://training.hacktricks.xyz/courses/arte"><strong>htARTE (HackTricks AWS Red Team Expert)</strong></a><strong>!</strong></summary>
+<summary><strong>Μάθετε το χάκινγκ του AWS από το μηδέν μέχρι τον ήρωα με το</strong> <a href="https://training.hacktricks.xyz/courses/arte"><strong>htARTE (HackTricks AWS Red Team Expert)</strong></a><strong>!</strong></summary>
 
-Other ways to support HackTricks:
+Άλλοι τρόποι για να υποστηρίξετε το HackTricks:
 
-* If you want to see your **company advertised in HackTricks** or **download HackTricks in PDF** Check the [**SUBSCRIPTION PLANS**](https://github.com/sponsors/carlospolop)!
-* Get the [**official PEASS & HackTricks swag**](https://peass.creator-spring.com)
-* Discover [**The PEASS Family**](https://opensea.io/collection/the-peass-family), our collection of exclusive [**NFTs**](https://opensea.io/collection/the-peass-family)
-* **Join the** 💬 [**Discord group**](https://discord.gg/hRep4RUj7f) or the [**telegram group**](https://t.me/peass) or **follow** me on **Twitter** 🐦 [**@hacktricks_live**](https://twitter.com/hacktricks_live)**.**
-* **Share your hacking tricks by submitting PRs to the** [**HackTricks**](https://github.com/carlospolop/hacktricks) and [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud) github repos.
+* Εάν θέλετε να δείτε την **εταιρεία σας να διαφημίζεται στο HackTricks** ή να **κατεβάσετε το HackTricks σε μορφή PDF** ελέγξτε τα [**ΣΧΕΔΙΑ ΣΥΝΔΡΟΜΗΣ**](https://github.com/sponsors/carlospolop)!
+* Αποκτήστε το [**επίσημο PEASS & HackTricks swag**](https://peass.creator-spring.com)
+* Ανακαλύψτε [**The PEASS Family**](https://opensea.io/collection/the-peass-family), τη συλλογή μας από αποκλειστικά [**NFTs**](https://opensea.io/collection/the-peass-family)
+* **Εγγραφείτε στη** 💬 [**ομάδα Discord**](https://discord.gg/hRep4RUj7f) ή στη [**ομάδα telegram**](https://t.me/peass) ή **ακολουθήστε** με στο **Twitter** 🐦 [**@hacktricks_live**](https://twitter.com/hacktricks_live)**.**
+* **Μοιραστείτε τα χάκινγκ κόλπα σας υποβάλλοντας PRs στα** [**HackTricks**](https://github.com/carlospolop/hacktricks) και [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud) αποθετήρια του github.
 
 </details>
 
 <figure><img src=".gitbook/assets/cloud.gif" alt=""><figcaption></figcaption></figure>
 
-_Hacktricks logos & motion designed by_ [_@ppiernacho_](https://www.instagram.com/ppieranacho/)_._
+_Λογότυπα και κίνηση Hacktricks σχεδιασμένα από_ [_@ppiernacho_](https://www.instagram.com/ppieranacho/)_._
 
 {% hint style="success" %}
-Welcome to the page where you will find each **hacking trick/technique/whatever related to CI/CD & Cloud** I have learnt in **CTFs**, **real** life **environments**, **researching**, and **reading** researches and news.
+Καλώς ήλθατε στη σελίδα όπου θα βρείτε κάθε **κόλπο/τεχνική/οτιδήποτε σχετικό με CI/CD & Cloud** που έχω μάθει σε **CTFs**, **πραγματικά** περιβάλλοντα **εργασίας**, **έρευνα** και **ανάγνωση** ερευνών και ειδήσεων.
 {% endhint %}
 
-## **Pentesting CI/CD Methodology**
+## **Μεθοδολογία Πεντεσταρίσματος CI/CD**
 
-**In the HackTricks CI/CD Methodology you will find how to pentest infrastructure related to CI/CD activities.** Read the following page for an **introduction:**
+**Στην Μεθοδολογία CI/CD του HackTricks θα βρείτε πώς να πεντεστάρετε υποδομές που σχετίζονται με δραστηριότητες CI/CD.** Διαβάστε την ακόλουθη σελίδα για μια **εισαγωγή:**
 
 {% content-ref url="pentesting-ci-cd/pentesting-ci-cd-methodology.md" %}
 [pentesting-ci-cd-methodology.md](pentesting-ci-cd/pentesting-ci-cd-methodology.md)
 {% endcontent-ref %}
 
-## Pentesting Cloud Methodology
+## Μεθοδολογία Πεντεσταρίσματος Cloud
 
-**In the HackTricks Cloud Methodology you will find how to pentest cloud environments.** Read the following page for an **introduction:**
+**Στην Μεθοδολογία Cloud του HackTricks θα βρείτε πώς να πεντεστάρετε περιβάλλοντα cloud.** Διαβάστε την ακόλουθη σελίδα για μια **εισαγωγή:**
 
 {% content-ref url="pentesting-cloud/pentesting-cloud-methodology.md" %}
 [pentesting-cloud-methodology.md](pentesting-cloud/pentesting-cloud-methodology.md)
 {% endcontent-ref %}
 
-## License
+## Άδεια
 
-**Copyright © Carlos Polop 2023. Except where otherwise specified (the external information copied into the book belongs to the original authors), the text on** [**HACK TRICKS CLOUD**](https://github.com/carlospolop/hacktricks-cloud) **by Carlos Polop is licensed under the**[ **Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**](https://creativecommons.org/licenses/by-nc/4.0/)**.**\
-**If you want to use it with commercial purposes, contact me.**
+**Πνευματικά δικαιώματα © Carlos Polop 2023. Εκτός αν αναφέρεται διαφορετικά (οι εξωτερικές πληροφορίες που αντιγράφονται στο βιβλίο ανήκουν στους αρχικούς συγγραφείς), το κείμενο του** [**HACK TRICKS CLOUD**](https://github.com/carlospolop/hacktricks-cloud) **του Carlos Polop διατίθεται υπό την άδεια**[ **Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**](https://creativecommons.org/licenses/by-nc/4.0/)**.**\
+**Εάν θέλετε να το χρησιμοποιήσετε για εμπορικούς σκοπούς, επικοινωνήστε μαζί μου.**
 
-## **Disclaimer**
+## **Αποποίηση Ευθύνης**
 
 {% hint style="danger" %}
-This book, 'HackTricks Cloud,' is intended for educational and informational purposes only. The content within this book is provided on an 'as is' basis, and the authors and publishers make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability of the information, products, services, or related graphics contained within this book. Any reliance you place on such information is therefore strictly at your own risk.
+Αυτό το βιβλίο, 'HackTricks Cloud,' προορίζεται μόνο για εκπαιδευτικούς και ενημερωτικούς σκοπούς. Το περιεχόμενο αυτού του βιβλίου παρέχεται ως έχει, και οι συγγραφείς και οι εκδότες δεν κάνουν καμία αναπαράσταση ή εγγύηση οποιουδήποτε είδους, ρητή ή σιωπηρή, σχετικά με την πληρότητα, την ακρίβεια, την αξιοπιστία, την καταλληλότητα ή τη διαθεσιμότητα των πληροφοριών, προϊόντων, υπηρεσιών ή γραφικών που περιέχονται σε αυτό το βιβλίο. Οποιαδήποτε εμπιστοσύνη που τοποθετείτε σε τέτοιες πληροφορίες είναι αυστηρά και μόνον με δική σας ευθύνη.
 
-The authors and publishers shall in no event be liable for any loss or damage, including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from loss of data or profits arising out of, or in connection with, the use of this book.
+Οι συγγραφείς και οι εκδότες δεν φέρουν καμία ευθύνη για οποιαδήποτε απώλεια ή ζημία, συμπεριλαμβανομένης, χωρίς περιορισμό, έμμεσης ή αποθετικής απώλειας ή ζημίας, ή οποιασδήποτε απώλειας ή ζημίας που προκύπτει από απώλεια δεδομένων ή κερδών που προκύπτουν από, ή σε συνδεση με, τη χρήση αυτού του βιβλίου.
 
-Furthermore, the techniques and tips described in this book are provided for educational and informational purposes only, and should not be used for any illegal or malicious activities. The authors and publishers do not condone or support any illegal or unethical activities, and any use of the information contained within this book is at the user's own risk and discretion.
-
-The user is solely responsible for any actions taken based on the information contained within this book, and should always seek professional advice and assistance when attempting to implement any of the techniques or tips described herein.
-
-By using this book, the user agrees to release the authors and publishers from any and all liability and responsibility for any damages, losses, or harm that may result from the use of this book or any of the information contained within it.
-{% endhint %}
-
-<details>
-
-<summary><strong>Learn AWS hacking from zero to hero with</strong> <a href="https://training.hacktricks.xyz/courses/arte"><strong>htARTE (HackTricks AWS Red Team Expert)</strong></a><strong>!</strong></summary>
-
-Other ways to support HackTricks:
-
-* If you want to see your **company advertised in HackTricks** or **download HackTricks in PDF** Check the [**SUBSCRIPTION PLANS**](https://github.com/sponsors/carlospolop)!
-* Get the [**official PEASS & HackTricks swag**](https://peass.creator-spring.com)
-* Discover [**The PEASS Family**](https://opensea.io/collection/the-peass-family), our collection of exclusive [**NFTs**](https://opensea.io/collection/the-peass-family)
-* **Join the** 💬 [**Discord group**](https://discord.gg/hRep4RUj7f) or the [**telegram group**](https://t.me/peass) or **follow** me on **Twitter** 🐦 [**@hacktricks_live**](https://twitter.com/hacktricks_live)**.**
-* **Share your hacking tricks by submitting PRs to the** [**HackTricks**](https://github.com/carlospolop/hacktricks) and [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud) github repos.
-
-</details>
+Επιπλέον, οι τεχνικές και οι συμβουλές που περιγράφονται σε αυτό το βιβλίο παρέχονται μόνο για εκπαιδευτικούς και ενημερωτικούς σκοπούς, και δεν πρέπει να χρησιμοποιούνται για παράνο

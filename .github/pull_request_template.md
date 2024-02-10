@@ -1,10 +1,9 @@
-## Attribution
-We value your knowledge and encourage you to share content. Please ensure that you only upload content that you own or have explicit permission to use from the original author. Your respect for intellectual property rights fosters a trustworthy and legal sharing environment for everyone.
+## Αναφορά προέλευσης
+Εκτιμούμε τη γνώση σας και σας ενθαρρύνουμε να μοιραστείτε περιεχόμενο. Βεβαιωθείτε ότι μόνο ανεβάζετε περιεχόμενο που σας ανήκει ή έχετε ρητή άδεια από τον αρχικό συντάκτη. Ο σεβασμός σας για τα πνευματικά δικαιώματα συμβάλλει σε ένα αξιόπιστο και νόμιμο περιβάλλον κοινής χρήσης για όλους.
 
-## HackTricks Training
-If you are adding so you can pass the in the [ARTE certification](https://training.hacktricks.xyz/courses/arte) exam with 2 flags instead of 3, you need to call the PR `arte-<username>`.
+## Εκπαίδευση HackTricks
+Εάν προσθέτετε περιεχόμενο για να περάσετε την εξέταση [ARTE certification](https://training.hacktricks.xyz/courses/arte) με 2 σημαίες αντί για 3, πρέπει να ονομάσετε το αίτημα ενσωμάτωσης `arte-<όνομα_χρήστη>`.
 
-Also, remember that grammar/syntax fixes won't be accepted for the exam flag reduction.
+Επίσης, θυμηθείτε ότι διορθώσεις γραμματικής/σύνταξης δεν θα γίνουν αποδεκτές για τη μείωση της σημαίας της εξέτασης.
 
-
-In any case, thanks for contributing to HackTricks!
+Σε κάθε περίπτωση, ευχαριστούμε για τη συνεισφορά σας στο HackTricks!
