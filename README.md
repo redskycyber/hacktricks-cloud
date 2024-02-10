@@ -2,71 +2,71 @@
 
 <details>
 
-<summary><strong>Learn AWS hacking from zero to hero with</strong> <a href="https://training.hacktricks.xyz/courses/arte"><strong>htARTE (HackTricks AWS Red Team Expert)</strong></a><strong>!</strong></summary>
+<summary><strong>htARTE (HackTricks AWS Red Team Expert)</strong> ile sıfırdan kahraman olmak için AWS hackleme öğrenin<strong>!</strong></summary>
 
-Other ways to support HackTricks:
+HackTricks'ı desteklemenin diğer yolları:
 
-* If you want to see your **company advertised in HackTricks** or **download HackTricks in PDF** Check the [**SUBSCRIPTION PLANS**](https://github.com/sponsors/carlospolop)!
-* Get the [**official PEASS & HackTricks swag**](https://peass.creator-spring.com)
-* Discover [**The PEASS Family**](https://opensea.io/collection/the-peass-family), our collection of exclusive [**NFTs**](https://opensea.io/collection/the-peass-family)
-* **Join the** 💬 [**Discord group**](https://discord.gg/hRep4RUj7f) or the [**telegram group**](https://t.me/peass) or **follow** me on **Twitter** 🐦 [**@hacktricks_live**](https://twitter.com/hacktricks_live)**.**
-* **Share your hacking tricks by submitting PRs to the** [**HackTricks**](https://github.com/carlospolop/hacktricks) and [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud) github repos.
+* Şirketinizi HackTricks'te **reklamını görmek** veya HackTricks'i **PDF olarak indirmek** için [**ABONELİK PLANLARINA**](https://github.com/sponsors/carlospolop) göz atın!
+* [**Resmi PEASS & HackTricks ürünlerini**](https://peass.creator-spring.com) edinin
+* Özel [**NFT'lerden**](https://opensea.io/collection/the-peass-family) oluşan koleksiyonumuz olan [**The PEASS Family**](https://opensea.io/collection/the-peass-family)'yi keşfedin
+* 💬 [**Discord grubuna**](https://discord.gg/hRep4RUj7f) veya [**telegram grubuna**](https://t.me/peass) **katılın** veya **Twitter** 🐦 [**@hacktricks_live**](https://twitter.com/hacktricks_live)'ı **takip edin**.
+* **Hacking hilelerinizi** [**HackTricks**](https://github.com/carlospolop/hacktricks) ve [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud) github reposuna **PR göndererek** paylaşın.
 
 </details>
 
 <figure><img src=".gitbook/assets/cloud.gif" alt=""><figcaption></figcaption></figure>
 
-_Hacktricks logos & motion designed by_ [_@ppiernacho_](https://www.instagram.com/ppieranacho/)_._
+_Hacktricks logoları ve hareketleri_ [_@ppiernacho_](https://www.instagram.com/ppieranacho/)_ tarafından tasarlandı._
 
 {% hint style="success" %}
-Welcome to the page where you will find each **hacking trick/technique/whatever related to CI/CD & Cloud** I have learnt in **CTFs**, **real** life **environments**, **researching**, and **reading** researches and news.
+CTF'lerde, gerçek hayatta, araştırma yaparken ve haberleri okurken öğrendiğim **her CI/CD & Cloud ile ilgili hacking hilesi/teknik/ne varsa** bulacağınız sayfaya hoş geldiniz.
 {% endhint %}
 
-## **Pentesting CI/CD Methodology**
+## **Pentesting CI/CD Metodolojisi**
 
-**In the HackTricks CI/CD Methodology you will find how to pentest infrastructure related to CI/CD activities.** Read the following page for an **introduction:**
+**HackTricks CI/CD Metodolojisinde, CI/CD faaliyetleriyle ilgili altyapıyı pentest etmenin nasıl yapılacağını bulacaksınız.** Bir **giriş** için aşağıdaki sayfayı okuyun:
 
 {% content-ref url="pentesting-ci-cd/pentesting-ci-cd-methodology.md" %}
 [pentesting-ci-cd-methodology.md](pentesting-ci-cd/pentesting-ci-cd-methodology.md)
 {% endcontent-ref %}
 
-## Pentesting Cloud Methodology
+## Cloud Pentesting Metodolojisi
 
-**In the HackTricks Cloud Methodology you will find how to pentest cloud environments.** Read the following page for an **introduction:**
+**HackTricks Cloud Metodolojisinde, bulut ortamlarını pentest etmenin nasıl yapılacağını bulacaksınız.** Bir **giriş** için aşağıdaki sayfayı okuyun:
 
 {% content-ref url="pentesting-cloud/pentesting-cloud-methodology.md" %}
 [pentesting-cloud-methodology.md](pentesting-cloud/pentesting-cloud-methodology.md)
 {% endcontent-ref %}
 
-## License
+## Lisans
 
-**Copyright © Carlos Polop 2023. Except where otherwise specified (the external information copied into the book belongs to the original authors), the text on** [**HACK TRICKS CLOUD**](https://github.com/carlospolop/hacktricks-cloud) **by Carlos Polop is licensed under the**[ **Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**](https://creativecommons.org/licenses/by-nc/4.0/)**.**\
-**If you want to use it with commercial purposes, contact me.**
+**Telif Hakkı © Carlos Polop 2023. Başka bir şekilde belirtilmediği sürece (kitaba kopyalanan harici bilgilerin orijinal yazarlara ait olduğu), Carlos Polop'un** [**HACK TRICKS CLOUD**](https://github.com/carlospolop/hacktricks-cloud) **adlı kitabındaki metin**[ **Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**](https://creativecommons.org/licenses/by-nc/4.0/)**** **lisansı altındadır.**\
+**Ticari amaçlarla kullanmak isterseniz, benimle iletişime geçin.**
 
-## **Disclaimer**
+## **Reddi Beyan**
 
 {% hint style="danger" %}
-This book, 'HackTricks Cloud,' is intended for educational and informational purposes only. The content within this book is provided on an 'as is' basis, and the authors and publishers make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability of the information, products, services, or related graphics contained within this book. Any reliance you place on such information is therefore strictly at your own risk.
+Bu kitap, 'HackTricks Cloud,' sadece eğitim ve bilgilendirme amaçlıdır. Bu kitaptaki içerik 'olduğu gibi' temelinde sunulmaktadır ve yazarlar ve yayıncılar, bu kitap içindeki bilgilerin, ürünlerin, hizmetlerin veya ilgili grafiklerin eksiksizlik, doğruluk, güvenilirlik, uygunluk veya kullanılabilirlik konusunda herhangi bir temsil veya garanti yapmamaktadır. Bu bilgilere dayanarak yaptığınız herhangi bir güven tamamen kendi sorumluluğunuzdadır.
 
-The authors and publishers shall in no event be liable for any loss or damage, including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from loss of data or profits arising out of, or in connection with, the use of this book.
+Yazarlar ve yayıncılar, bu kitabın kullanımıyla ilgili olarak, dolaylı veya ardışık kayıp veya hasar dahil olmak üzere, veri kaybı veya kar kaybı gibi herhangi bir kayıp veya hasardan sorumlu tutulamazlar. Bu kitabın içindeki bilgilerin kullanımından kaynaklanan herhangi bir zarar, kayıp veya zarardan kaynaklanan herhangi bir sorumluluktan yazarlar ve yayıncılar sorumlu tutulamazlar.
 
-Furthermore, the techniques and tips described in this book are provided for educational and informational purposes only, and should not be used for any illegal or malicious activities. The authors and publishers do not condone or support any illegal or unethical activities, and any use of the information contained within this book is at the user's own risk and discretion.
+Ayrıca, bu kitapta tanımlanan teknikler ve ipuçları sadece eğitim ve bilgilendirme amaçlıdır ve herhangi bir yasa dışı veya kötü niyetli faaliyet için kullanılmamalıdır. Yazarlar ve yayıncılar, herhangi bir yasa dışı veya etik olmayan faaliyeti onaylamaz veya desteklemez ve bu kitapta yer alan bilgilerin kullanımı, kullanıcının kendi riski ve takdirine tabidir.
 
-The user is solely responsible for any actions taken based on the information contained within this book, and should always seek professional advice and assistance when attempting to implement any of the techniques or tips described herein.
+Kullanıcı, bu kitapta yer alan bilgilere dayalı olarak yaptığı herhangi bir eylemden tamamen sorumludur ve burada tarif edilen tekniklerin veya ipuçlarının herhangi birini uygulamaya çalışırken her zaman profesyonel tavsiye ve yardım aramalıdır.
 
-By using this book, the user agrees to release the authors and publishers from any and all liability and responsibility for any damages, losses, or harm that may result from the use of this book or any of the information contained within it.
+Bu kitabı kullanarak, kullanıcı, yazarları ve yayıncıları bu kitabın kullanımı veya içindeki bilgiler nedeniyle ortaya çıkabilecek herhangi bir zarar, kayıp veya zarardan muaf tutmayı kabul eder.
 {% endhint %}
 
 <details>
 
-<summary><strong>Learn AWS hacking from zero to hero with</strong> <a href="https://training.hacktricks.xyz/courses/arte"><strong>htARTE (HackTricks AWS Red Team Expert)</strong></a><strong>!</strong></summary>
+<summary><strong>htARTE (HackTricks AWS Red Team Expert)</strong> ile sıfırdan kahraman olmak için AWS hackleme öğrenin<strong>!</strong></summary>
 
-Other ways to support HackTricks:
+HackTricks'ı desteklemenin diğer yolları:
 
-* If you want to see your **company advertised in HackTricks** or **download HackTricks in PDF** Check the [**SUBSCRIPTION PLANS**](https://github.com/sponsors/carlospolop)!
-* Get the [**official PEASS & HackTricks swag**](https://peass.creator-spring.com)
-* Discover [**The PEASS Family**](https://opensea.io/collection/the-peass-family), our collection of exclusive [**NFTs**](https://opensea.io/collection/the-peass-family)
-* **Join the** 💬 [**Discord group**](https://discord.gg/hRep4RUj7f) or the [**telegram group**](https://t.me/peass) or **follow** me on **Twitter** 🐦 [**@hacktricks_live**](https://twitter.com/hacktricks_live)**.**
-* **Share your hacking tricks by submitting PRs to the** [**HackTricks**](https://github.com/carlospolop/hacktricks) and [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud) github repos.
+* Şirketinizi HackTricks'te **reklamını görmek** veya HackTricks'i **PDF olarak indirmek** için [**ABONELİK PLANLARINA**](https://github.com/sponsors/carlospolop) göz atın!
+* [**Resmi PEASS & HackTricks ürünlerini**](https://peass.creator-spring.com) edinin
+* Özel [**NFT'lerden**](https://opensea.io/collection/the-peass-family) oluşan koleksiyonumuz olan [**The PEASS Family**](https://opensea.io/collection/the-peass-family)'yi keşfedin
+* 💬 [**Discord grubuna**](https://discord.gg/hRep4RUj7f) veya [**telegram grubuna**](https://t.me/peass) **katılın** veya **Twitter** 🐦 [**@hacktricks_live**](https://twitter.com/hacktricks_live)'ı **takip edin**.
+* **Hacking hilelerinizi** [**HackTricks**](https://github.com/carlospolop/hacktricks) ve [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud) github reposuna **PR göndererek** paylaşın.
 
 </details>

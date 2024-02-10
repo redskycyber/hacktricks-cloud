@@ -1,10 +1,9 @@
-## Attribution
-We value your knowledge and encourage you to share content. Please ensure that you only upload content that you own or have explicit permission to use from the original author. Your respect for intellectual property rights fosters a trustworthy and legal sharing environment for everyone.
+## Atıf
+Bilginizi değerli buluyoruz ve içeriği paylaşmanızı teşvik ediyoruz. Lütfen yalnızca sahip olduğunuz veya orijinal yazarın açık iznine sahip olduğunuz içeriği yüklediğinizden emin olun. Fikri mülkiyet haklarına saygı göstermeniz, herkes için güvenilir ve yasal bir paylaşım ortamı oluşturur.
 
-## HackTricks Training
-If you are adding so you can pass the in the [ARTE certification](https://training.hacktricks.xyz/courses/arte) exam with 2 flags instead of 3, you need to call the PR `arte-<username>`.
+## HackTricks Eğitimi
+Eğer [ARTE sertifikasyonu](https://training.hacktricks.xyz/courses/arte) sınavında 3 yerine 2 bayrak almak için ekliyorsanız, PR'yi `arte-<kullanıcıadı>` olarak adlandırmanız gerekmektedir.
 
-Also, remember that grammar/syntax fixes won't be accepted for the exam flag reduction.
+Ayrıca, dilbilgisi/sözdizimi düzeltmeleri sınav bayrağı indirimi için kabul edilmeyecektir.
 
-
-In any case, thanks for contributing to HackTricks!
+Her durumda, HackTricks'e katkıda bulunduğunuz için teşekkür ederiz!
