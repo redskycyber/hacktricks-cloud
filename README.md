@@ -2,71 +2,71 @@
 
 <details>
 
-<summary><strong>Learn AWS hacking from zero to hero with</strong> <a href="https://training.hacktricks.xyz/courses/arte"><strong>htARTE (HackTricks AWS Red Team Expert)</strong></a><strong>!</strong></summary>
+<summary><strong>Jifunze kuhusu kudukua AWS kutoka sifuri hadi shujaa na</strong> <a href="https://training.hacktricks.xyz/courses/arte"><strong>htARTE (Mtaalam wa Timu Nyekundu ya AWS ya HackTricks)</strong></a><strong>!</strong></summary>
 
-Other ways to support HackTricks:
+Njia nyingine za kusaidia HackTricks:
 
-* If you want to see your **company advertised in HackTricks** or **download HackTricks in PDF** Check the [**SUBSCRIPTION PLANS**](https://github.com/sponsors/carlospolop)!
-* Get the [**official PEASS & HackTricks swag**](https://peass.creator-spring.com)
-* Discover [**The PEASS Family**](https://opensea.io/collection/the-peass-family), our collection of exclusive [**NFTs**](https://opensea.io/collection/the-peass-family)
-* **Join the** 💬 [**Discord group**](https://discord.gg/hRep4RUj7f) or the [**telegram group**](https://t.me/peass) or **follow** me on **Twitter** 🐦 [**@hacktricks_live**](https://twitter.com/hacktricks_live)**.**
-* **Share your hacking tricks by submitting PRs to the** [**HackTricks**](https://github.com/carlospolop/hacktricks) and [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud) github repos.
+* Ikiwa unataka kuona **kampuni yako ikitangazwa kwenye HackTricks** au **kupakua HackTricks kwa PDF** Angalia [**MIPANGO YA KUJIUNGA**](https://github.com/sponsors/carlospolop)!
+* Pata [**bidhaa rasmi za PEASS & HackTricks**](https://peass.creator-spring.com)
+* Gundua [**Familia ya PEASS**](https://opensea.io/collection/the-peass-family), mkusanyiko wetu wa kipekee wa [**NFTs**](https://opensea.io/collection/the-peass-family)
+* **Jiunge na** 💬 [**Kikundi cha Discord**](https://discord.gg/hRep4RUj7f) au kikundi cha [**telegram**](https://t.me/peass) au **nifuata** kwenye **Twitter** 🐦 [**@hacktricks_live**](https://twitter.com/hacktricks_live)**.**
+* **Shiriki mbinu zako za kudukua kwa kuwasilisha PRs kwa** [**HackTricks**](https://github.com/carlospolop/hacktricks) na [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud) repos za github.
 
 </details>
 
 <figure><img src=".gitbook/assets/cloud.gif" alt=""><figcaption></figcaption></figure>
 
-_Hacktricks logos & motion designed by_ [_@ppiernacho_](https://www.instagram.com/ppieranacho/)_._
+_Logo za Hacktricks & motion zilizoandaliwa na_ [_@ppiernacho_](https://www.instagram.com/ppieranacho/)_._
 
 {% hint style="success" %}
-Welcome to the page where you will find each **hacking trick/technique/whatever related to CI/CD & Cloud** I have learnt in **CTFs**, **real** life **environments**, **researching**, and **reading** researches and news.
+Karibu kwenye ukurasa ambapo utapata kila **mbinu/tekinolojia/chochote kinachohusiana na CI/CD & Cloud** niliyojifunza katika **CTFs**, **mazingira ya** halisi, **utafiti**, na **kusoma** utafiti na habari.
 {% endhint %}
 
-## **Pentesting CI/CD Methodology**
+## **Mbinu ya Kudukua CI/CD**
 
-**In the HackTricks CI/CD Methodology you will find how to pentest infrastructure related to CI/CD activities.** Read the following page for an **introduction:**
+**Katika Mbinu ya Kudukua CI/CD ya HackTricks utapata jinsi ya kudukua miundombinu inayohusiana na shughuli za CI/CD.** Soma ukurasa ufuatao kwa **utangulizi:**
 
 {% content-ref url="pentesting-ci-cd/pentesting-ci-cd-methodology.md" %}
 [pentesting-ci-cd-methodology.md](pentesting-ci-cd/pentesting-ci-cd-methodology.md)
 {% endcontent-ref %}
 
-## Pentesting Cloud Methodology
+## Mbinu ya Kudukua Cloud
 
-**In the HackTricks Cloud Methodology you will find how to pentest cloud environments.** Read the following page for an **introduction:**
+**Katika Mbinu ya Kudukua Cloud ya HackTricks utapata jinsi ya kudukua mazingira ya wingu.** Soma ukurasa ufuatao kwa **utangulizi:**
 
 {% content-ref url="pentesting-cloud/pentesting-cloud-methodology.md" %}
 [pentesting-cloud-methodology.md](pentesting-cloud/pentesting-cloud-methodology.md)
 {% endcontent-ref %}
 
-## License
+## Leseni
 
-**Copyright © Carlos Polop 2023. Except where otherwise specified (the external information copied into the book belongs to the original authors), the text on** [**HACK TRICKS CLOUD**](https://github.com/carlospolop/hacktricks-cloud) **by Carlos Polop is licensed under the**[ **Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)**](https://creativecommons.org/licenses/by-nc/4.0/)**.**\
-**If you want to use it with commercial purposes, contact me.**
+**Haki miliki © Carlos Polop 2023. Isipokuwa pale inapobainishwa vinginevyo (habari za nje zilizochapishwa kwenye kitabu zinamilikiwa na waandishi wa asili), maandishi kwenye** [**HACK TRICKS CLOUD**](https://github.com/carlospolop/hacktricks-cloud) **na Carlos Polop inamilikiwa chini ya** [**Aina ya Kutambulisha-Kutokufanya Biashara 4.0 Kimataifa (CC BY-NC 4.0)**](https://creativecommons.org/licenses/by-nc/4.0/)**.**\
+**Ikiwa unataka kutumia kwa madhumuni ya kibiashara, wasiliana nami.**
 
-## **Disclaimer**
+## **Taarifa ya Kisheria**
 
 {% hint style="danger" %}
-This book, 'HackTricks Cloud,' is intended for educational and informational purposes only. The content within this book is provided on an 'as is' basis, and the authors and publishers make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability of the information, products, services, or related graphics contained within this book. Any reliance you place on such information is therefore strictly at your own risk.
+Kitabu hiki, 'HackTricks Cloud,' kinalenga kwa madhumuni ya elimu na habari pekee. Yaliyomo ndani ya kitabu hiki yanatolewa kwa msingi wa 'kama ilivyo,' na waandishi na wachapishaji hawatoi uwakilishi au dhamana ya aina yoyote, wazi au iliyopendekezwa, kuhusu ukamilifu, usahihi, uaminifu, ufaa, au upatikanaji wa habari, bidhaa, huduma, au michoro inayohusiana iliyomo ndani ya kitabu hiki. Kuiamini habari kama hiyo kunategemea kabisa hatari yako mwenyewe.
 
-The authors and publishers shall in no event be liable for any loss or damage, including without limitation, indirect or consequential loss or damage, or any loss or damage whatsoever arising from loss of data or profits arising out of, or in connection with, the use of this book.
+Waandishi na wachapishaji hawatawajibika kamwe kwa upotezaji au uharibifu, ikiwa ni pamoja na bila kikomo, upotezaji au uharibifu usio wa moja kwa moja au wa matokeo, au upotezaji au uharibifu wowote unaotokana na upotezaji wa data au faida unaotokana na, au kuhusiana na, matumizi ya kitabu hiki.
 
-Furthermore, the techniques and tips described in this book are provided for educational and informational purposes only, and should not be used for any illegal or malicious activities. The authors and publishers do not condone or support any illegal or unethical activities, and any use of the information contained within this book is at the user's own risk and discretion.
+Zaidi ya hayo, mbinu na vidokezo vilivyoelezwa katika kitabu hiki vinatolewa kwa madhumuni ya elimu na habari pekee, na havipaswi kutumiwa kwa shughuli yoyote haramu au yenye nia mbaya. Waandishi na wachapishaji hawakubaliani au kusaidia shughuli yoyote haramu au isiyo ya maadili, na matumizi yoyote ya habari iliyomo ndani ya kitabu hiki ni kwa hatari na uamuzi wa mtumiaji mwenyewe.
 
-The user is solely responsible for any actions taken based on the information contained within this book, and should always seek professional advice and assistance when attempting to implement any of the techniques or tips described herein.
+Mtumiaji ndiye anayewajibika peke yake kwa hatua zozote zinazochukuliwa kulingana na habari iliyomo ndani ya kitabu hiki, na daima anapaswa kutafuta ushauri wa kitaalam na msaada anapojaribu kutekeleza mbinu au vidokezo vilivyoelezwa hapa.
 
-By using this book, the user agrees to release the authors and publishers from any and all liability and responsibility for any damages, losses, or harm that may result from the use of this book or any of the information contained within it.
+Kwa kutumia kitabu hiki, mtumiaji anakubaliana kuachilia waandishi na wachapishaji kutoka kwa dhima na jukumu lolote kwa uharibifu, hasara, au madhara yanayoweza kutokea kutokana na matumizi ya kitabu hiki au habari yoyote iliyomo ndani yake.
 {% endhint %}
 
 <details>
 
-<summary><strong>Learn AWS hacking from zero to hero with</strong> <a href="https://training.hacktricks.xyz/courses/arte"><strong>htARTE (HackTricks AWS Red Team Expert)</strong></a><strong>!</strong></summary>
+<summary><strong>Jifunze kuhusu kudukua AWS kutoka sifuri hadi shujaa na</strong> <a href="https://training.hacktricks.xyz/courses/arte"><strong>htARTE (Mtaalam wa Timu Nyekundu ya AWS ya HackTricks)</strong></a><strong>!</strong></summary>
 
-Other ways to support HackTricks:
+Njia nyingine za kusaidia HackTricks:
 
-* If you want to see your **company advertised in HackTricks** or **download HackTricks in PDF** Check the [**SUBSCRIPTION PLANS**](https://github.com/sponsors/carlospolop)!
-* Get the [**official PEASS & HackTricks swag**](https://peass.creator-spring.com)
-* Discover [**The PEASS Family**](https://opensea.io/collection/the-peass-family), our collection of exclusive [**NFTs**](https://opensea.io/collection/the-peass-family)
-* **Join the** 💬 [**Discord group**](https://discord.gg/hRep4RUj7f) or the [**telegram group**](https://t.me/peass) or **follow** me on **Twitter** 🐦 [**@hacktricks_live**](https://twitter.com/hacktricks_live)**.**
-* **Share your hacking tricks by submitting PRs to the** [**HackTricks**](https://github.com/carlospolop/hacktricks) and [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud) github repos.
+* Ikiwa unataka kuona **kampuni yako ikitangazwa kwenye HackTricks** au **kupakua HackTricks kwa PDF** Angalia [**MIPANGO YA KUJIUNGA**](https://github.com/sponsors/carlospolop)!
+* Pata [**bidhaa rasmi za PEASS & HackTricks**](https://peass.creator-spring.com)
+* Gundua [**Familia ya PEASS**](https://opensea.io/collection/the-peass-family), mkusanyiko wetu wa kipekee wa [**NFTs**](https://opensea.io/collection/the-peass-family)
+* **Jiunge na** 💬 [**Kikundi cha Discord**](https://discord.gg/hRep4RUj7f) au kikundi cha [**telegram**](https://t.me/peass) au **nifuata** kwenye **Twitter** 🐦 [**@hacktricks_live**](https://twitter.com/hacktricks_live)**.**
+* **Shiriki mbinu zako za kudukua kwa kuwasilisha PRs kwa** [**HackTricks**](https://github.com/carlospolop/hacktricks) na [**HackTricks Cloud**](https://github.com/carlospolop/hacktricks-cloud) repos za github.
 
 </details>

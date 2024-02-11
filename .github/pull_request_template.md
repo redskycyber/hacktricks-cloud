@@ -1,10 +1,9 @@
-## Attribution
-We value your knowledge and encourage you to share content. Please ensure that you only upload content that you own or have explicit permission to use from the original author. Your respect for intellectual property rights fosters a trustworthy and legal sharing environment for everyone.
+## Kutambua
+Tunathamini maarifa yako na tunakuhimiza kushiriki maudhui. Tafadhali hakikisha unapakia maudhui ambayo unamiliki au una idhini wazi kutoka kwa mwandishi halisi. Heshima yako kwa haki miliki inakuza mazingira ya kushiriki yanayoweza kuaminiwa na kisheria kwa kila mtu.
 
-## HackTricks Training
-If you are adding so you can pass the in the [ARTE certification](https://training.hacktricks.xyz/courses/arte) exam with 2 flags instead of 3, you need to call the PR `arte-<username>`.
+## Mafunzo ya HackTricks
+Ikiwa unachangia ili uweze kupita mtihani wa [uthibitisho wa ARTE](https://training.hacktricks.xyz/courses/arte) na bendera 2 badala ya 3, unahitaji kuita PR `arte-<jina la mtumiaji>`.
 
-Also, remember that grammar/syntax fixes won't be accepted for the exam flag reduction.
+Pia, kumbuka kuwa marekebisho ya sarufi/sintaksia haitakubaliwa kwa kupunguza bendera ya mtihani.
 
-
-In any case, thanks for contributing to HackTricks!
+Kwa hali yoyote, asante kwa kuchangia kwenye HackTricks!
