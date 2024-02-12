@@ -1,10 +1,9 @@
-## Attribution
-We value your knowledge and encourage you to share content. Please ensure that you only upload content that you own or have explicit permission to use from the original author. Your respect for intellectual property rights fosters a trustworthy and legal sharing environment for everyone.
+## Zuschreibung
+Wir schätzen Ihr Wissen und ermutigen Sie, Inhalte zu teilen. Stellen Sie bitte sicher, dass Sie nur Inhalte hochladen, die Ihnen gehören oder für die Sie ausdrückliche Genehmigung vom Originalautor haben. Ihr Respekt vor geistigem Eigentum fördert eine vertrauenswürdige und rechtliche Umgebung für den Austausch von Informationen.
 
 ## HackTricks Training
-If you are adding so you can pass the in the [ARTE certification](https://training.hacktricks.xyz/courses/arte) exam with 2 flags instead of 3, you need to call the PR `arte-<username>`.
+Wenn Sie Inhalte hinzufügen, um die [ARTE-Zertifizierung](https://training.hacktricks.xyz/courses/arte) mit 2 Flaggen anstelle von 3 zu bestehen, müssen Sie den PR als `arte-<Benutzername>` benennen.
 
-Also, remember that grammar/syntax fixes won't be accepted for the exam flag reduction.
+Bitte beachten Sie, dass Grammatik-/Syntaxkorrekturen für die Flaggenreduzierung bei der Prüfung nicht akzeptiert werden.
 
-
-In any case, thanks for contributing to HackTricks!
+Vielen Dank für Ihre Beiträge zu HackTricks!
