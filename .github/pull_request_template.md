@@ -1,10 +1,9 @@
-## Attribution
-We value your knowledge and encourage you to share content. Please ensure that you only upload content that you own or have explicit permission to use from the original author. Your respect for intellectual property rights fosters a trustworthy and legal sharing environment for everyone.
+## Призначення
+Ми цінуємо ваші знання та закликаємо вас ділитися контентом. Будь ласка, переконайтеся, що ви завантажуєте лише контент, який ви володієте або маєте явну дозвіл від оригінального автора. Ваше повага до прав інтелектуальної власності сприяє довірливому та законному середовищу обміну для всіх.
 
-## HackTricks Training
-If you are adding so you can pass the in the [ARTE certification](https://training.hacktricks.xyz/courses/arte) exam with 2 flags instead of 3, you need to call the PR `arte-<username>`.
+## Тренування HackTricks
+Якщо ви додаєте це, щоб пройти [сертифікацію ARTE](https://training.hacktricks.xyz/courses/arte) з 2 прапорцями замість 3, вам потрібно назвати запит на злиття `arte-<ім'якористувача>`.
 
-Also, remember that grammar/syntax fixes won't be accepted for the exam flag reduction.
+Також пам'ятайте, що виправлення граматики/синтаксису не будуть прийняті для зниження прапорця на екзамені.
 
-
-In any case, thanks for contributing to HackTricks!
+У будь-якому випадку, дякуємо за ваш внесок у HackTricks!
